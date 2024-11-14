@@ -1,5 +1,13 @@
 This folder contains implementations for the following two projects, with detailed procedures documented in the Demo file.
 
+--------------------------------------------------------------------------------------------------
+In order to run the project, user can choose either
+
+(1) run the jupyter notebook "Demo.ipynb", which show the detailed procedure and results.<br>
+(2) run the main.py file, it will pop up four web browsers with port addresses above.
+
+--------------------------------------------------------------------------------------------------
+
 # Project 1: Pair Trading
 
 ### Part 1: Identifying Highly Correlated Pairs
@@ -23,11 +31,6 @@ Please see "Project_2_Regression.pdf" for a quick review of results.
 A dashboard (http://127.0.0.1:3036/)  enable users to select an index, set a date range, and choose a method to find the top 10 stocks explaining index performance through a dedicated dashboard.
 Please see "Project_2_MostExplain.pdf" for a quick review of results.
 
---------------------------------------------------------------------------------------------------
-In order to run the project, user can choose either
-
-(1) run the jupyter notebook "Demo.ipynb", which show the detailed procedure and results.<br>
-(2) run the main.py file, it will pop up four web browsers with port addresses above.
 
 
 
