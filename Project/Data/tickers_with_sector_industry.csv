@@ -1,0 +1,2466 @@
+Ticker,Sector,Industry
+OKE,Energy,Oil & Gas Midstream
+NATR,Consumer Defensive,Packaged Foods
+LPTV,Communication Services,Broadcasting
+WERN,Industrials,Trucking
+IIPR,Real Estate,REIT—Industrial
+FLIC,Financial Services,Banks—Regional
+ROVR,Other,Other
+KEYS,Technology,Scientific & Technical Instruments
+EVER,Communication Services,Internet Content & Information
+SSB,Financial Services,Banks—Regional
+AKAM,Technology,Software—Infrastructure
+LRCX,Technology,Semiconductor Equipment & Materials
+TWST,Healthcare,Diagnostics & Research
+LEGH,Consumer Cyclical,Residential Construction
+TGTX,Healthcare,Biotechnology
+MLKN,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+CVGI,Consumer Cyclical,Auto Parts
+NXRT,Real Estate,REIT—Residential
+NARI,Healthcare,Medical Devices
+FLNC,Utilities,Utilities—Renewable
+UDMY,Consumer Defensive,Education & Training Services
+PRIM,Industrials,Engineering & Construction
+CARE,Financial Services,Banks—Regional
+BKU,Financial Services,Banks—Regional
+RIGL,Healthcare,Biotechnology
+PLBC,Financial Services,Banks—Regional
+HUMA,Healthcare,Biotechnology
+RVMD,Healthcare,Biotechnology
+PNW,Utilities,Utilities—Regulated Electric
+CTGO,Basic Materials,Gold
+BHE,Technology,Electronic Components
+CORT,Healthcare,Biotechnology
+HA,Industrials,Airlines
+JANX,Healthcare,Biotechnology
+EQR,Real Estate,REIT—Residential
+KN,Technology,Electronic Components
+ANNX,Healthcare,Biotechnology
+CCRD,Technology,Software—Application
+MVBF,Financial Services,Banks—Regional
+SGHC,Consumer Cyclical,Gambling
+CELC,Healthcare,Biotechnology
+BHVN,Healthcare,Biotechnology
+INTA,Technology,Software—Application
+AXL,Consumer Cyclical,Auto Parts
+IGMS,Healthcare,Biotechnology
+SWI,Technology,Software—Infrastructure
+FDMT,Healthcare,Biotechnology
+WLY,Communication Services,Publishing
+TDS,Communication Services,Telecom Services
+SAFT,Financial Services,Insurance—Property & Casualty
+FOA,Financial Services,Credit Services
+AIRS,Healthcare,Medical Care Facilities
+GDOT,Financial Services,Credit Services
+CVBF,Financial Services,Banks—Regional
+NVAX,Healthcare,Biotechnology
+ZEUS,Basic Materials,Steel
+ECL,Basic Materials,Specialty Chemicals
+SMLR,Healthcare,Medical Devices
+SLDP,Consumer Cyclical,Auto Parts
+TWKS,Technology,Information Technology Services
+TPH,Consumer Cyclical,Residential Construction
+BSX,Healthcare,Medical Devices
+INMD,Healthcare,Medical Devices
+THRM,Consumer Cyclical,Auto Parts
+ZTS,Healthcare,Drug Manufacturers—Specialty & Generic
+APPN,Technology,Software—Infrastructure
+SIGI,Financial Services,Insurance—Property & Casualty
+PG,Consumer Defensive,Household & Personal Products
+OABI,Healthcare,Biotechnology
+IE,Basic Materials,Copper
+KFS,Consumer Cyclical,Auto & Truck Dealerships
+MATX,Industrials,Marine Shipping
+AMTB,Financial Services,Banks—Regional
+UTMD,Healthcare,Medical Instruments & Supplies
+MOND,Consumer Cyclical,Travel Services
+APLE,Real Estate,REIT—Hotel & Motel
+HFFG,Consumer Defensive,Food Distribution
+CARR,Industrials,Building Products & Equipment
+MCO,Financial Services,Financial Data & Stock Exchanges
+GT,Consumer Cyclical,Auto Parts
+PFMT,Industrials,Specialty Business Services
+INDI,Technology,Semiconductor Equipment & Materials
+UTZ,Consumer Defensive,Packaged Foods
+ALGT,Industrials,Airlines
+CSTR,Other,Other
+NTLA,Healthcare,Biotechnology
+NVTS,Technology,Semiconductors
+AMPH,Healthcare,Drug Manufacturers—Specialty & Generic
+GNLX,Healthcare,Biotechnology
+TMCI,Healthcare,Medical Devices
+FBMS,Financial Services,Banks—Regional
+ALLO,Healthcare,Biotechnology
+DAL,Industrials,Airlines
+SKYW,Industrials,Airlines
+ETRN,Other,Other
+DSP,Technology,Software—Application
+LKQ,Consumer Cyclical,Auto Parts
+TCBI,Financial Services,Banks—Regional
+AVGO,Technology,Semiconductors
+PBI,Industrials,Integrated Freight & Logistics
+MCY,Financial Services,Insurance—Property & Casualty
+WTBA,Financial Services,Banks—Regional
+GVA,Industrials,Engineering & Construction
+CF,Basic Materials,Agricultural Inputs
+MTB,Financial Services,Banks—Regional
+VICR,Technology,Electronic Components
+AES,Utilities,Utilities—Diversified
+DXPE,Industrials,Industrial Distribution
+CL,Consumer Defensive,Household & Personal Products
+CNDT,Technology,Information Technology Services
+AUB,Financial Services,Banks—Regional
+RXST,Healthcare,Medical Devices
+NATH,Consumer Cyclical,Restaurants
+WAT,Healthcare,Diagnostics & Research
+ACT,Financial Services,Insurance—Specialty
+IMVT,Healthcare,Biotechnology
+AMP,Financial Services,Asset Management
+WMK,Consumer Defensive,Grocery Stores
+GEO,Industrials,Security & Protection Services
+KVUE,Consumer Defensive,Household & Personal Products
+MBC,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+SBGI,Communication Services,Broadcasting
+WDFC,Basic Materials,Specialty Chemicals
+CZNC,Financial Services,Banks—Regional
+OPEN,Real Estate,Real Estate Services
+ESRT,Real Estate,REIT—Diversified
+IRTC,Healthcare,Medical Devices
+STC,Financial Services,Insurance—Property & Casualty
+VMD,Healthcare,Medical Devices
+PAYX,Technology,Software—Application
+ACMR,Technology,Semiconductor Equipment & Materials
+MPWR,Technology,Semiconductors
+EQC,Real Estate,REIT—Office
+PRTA,Healthcare,Biotechnology
+PHR,Healthcare,Health Information Services
+BALL,Consumer Cyclical,Packaging & Containers
+TNC,Industrials,Specialty Industrial Machinery
+OLMA,Healthcare,Biotechnology
+ADTN,Technology,Communication Equipment
+EA,Communication Services,Electronic Gaming & Multimedia
+SWIM,Industrials,Building Products & Equipment
+DAKT,Technology,Electronic Components
+MTTR,Technology,Software—Application
+WMB,Energy,Oil & Gas Midstream
+HTLD,Industrials,Trucking
+VRRM,Industrials,Infrastructure Operations
+MMI,Real Estate,Real Estate Services
+HRL,Consumer Defensive,Packaged Foods
+RGR,Industrials,Aerospace & Defense
+WMT,Consumer Defensive,Discount Stores
+ALB,Basic Materials,Specialty Chemicals
+SMBK,Financial Services,Banks—Regional
+YOU,Technology,Software—Application
+RMBS,Technology,Semiconductors
+IT,Technology,Information Technology Services
+MDT,Healthcare,Medical Devices
+UCBI,Other,Other
+EAF,Industrials,Electrical Equipment & Parts
+HRMY,Healthcare,Biotechnology
+LXFR,Industrials,Specialty Industrial Machinery
+CRC,Energy,Oil & Gas E&P
+HAE,Healthcare,Medical Instruments & Supplies
+RPD,Technology,Software—Infrastructure
+PHM,Consumer Cyclical,Residential Construction
+SPCE,Industrials,Aerospace & Defense
+TTGT,Communication Services,Internet Content & Information
+PRO,Technology,Software—Application
+UE,Real Estate,REIT—Retail
+KALU,Basic Materials,Aluminum
+EAT,Consumer Cyclical,Restaurants
+CERE,Other,Other
+HWC,Financial Services,Banks—Regional
+CPK,Utilities,Utilities—Regulated Gas
+CCSI,Technology,Software—Infrastructure
+MBUU,Consumer Cyclical,Recreational Vehicles
+NPO,Industrials,Specialty Industrial Machinery
+VITL,Consumer Defensive,Farm Products
+ATEN,Technology,Software—Infrastructure
+SRDX,Healthcare,Medical Devices
+CPS,Consumer Cyclical,Auto Parts
+EXTR,Technology,Communication Equipment
+CPSS,Financial Services,Credit Services
+WSFS,Financial Services,Banks—Regional
+POR,Utilities,Utilities—Regulated Electric
+ESGR,Financial Services,Insurance—Diversified
+HTBK,Financial Services,Banks—Regional
+CDMO,Healthcare,Biotechnology
+CSV,Consumer Cyclical,Personal Services
+FGEN,Healthcare,Biotechnology
+AIN,Consumer Cyclical,Textile Manufacturing
+CVNA,Consumer Cyclical,Auto & Truck Dealerships
+IESC,Industrials,Engineering & Construction
+ALX,Real Estate,REIT—Retail
+AON,Financial Services,Insurance Brokers
+OM,Healthcare,Medical Devices
+WSBC,Financial Services,Banks—Regional
+ROG,Technology,Electronic Components
+MAA,Real Estate,REIT—Residential
+NEOG,Healthcare,Diagnostics & Research
+IGT,Consumer Cyclical,Gambling
+QUAD,Industrials,Specialty Business Services
+EWTX,Healthcare,Biotechnology
+FNA,Healthcare,Medical Devices
+TIO,Technology,Software—Application
+ZIP,Industrials,Staffing & Employment Services
+FIS,Technology,Information Technology Services
+HUBB,Industrials,Electrical Equipment & Parts
+ANIP,Healthcare,Drug Manufacturers—Specialty & Generic
+HLT,Consumer Cyclical,Lodging
+HCI,Financial Services,Insurance—Property & Casualty
+ETWO,Technology,Software—Application
+ZETA,Technology,Software—Infrastructure
+GPC,Consumer Cyclical,Auto Parts
+CTO,Real Estate,REIT—Diversified
+AAN,Industrials,Rental & Leasing Services
+KZR,Healthcare,Biotechnology
+COLL,Healthcare,Drug Manufacturers—Specialty & Generic
+LOB,Financial Services,Banks—Regional
+JACK,Consumer Cyclical,Restaurants
+KO,Consumer Defensive,Beverages—Non-Alcoholic
+BHB,Financial Services,Banks—Regional
+WFC,Financial Services,Banks—Diversified
+OVID,Healthcare,Biotechnology
+KHC,Consumer Defensive,Packaged Foods
+ATRC,Healthcare,Medical Instruments & Supplies
+WGO,Consumer Cyclical,Recreational Vehicles
+MAXN,Technology,Solar
+PNTG,Healthcare,Medical Care Facilities
+SBCF,Financial Services,Banks—Regional
+CLW,Basic Materials,Paper & Paper Products
+JAMF,Technology,Software—Application
+UEC,Energy,Uranium
+ES,Utilities,Utilities—Regulated Electric
+BIIB,Healthcare,Drug Manufacturers—General
+EVRI,Consumer Cyclical,Gambling
+TRUP,Financial Services,Insurance—Specialty
+GWRS,Utilities,Utilities—Regulated Water
+TFX,Healthcare,Medical Instruments & Supplies
+ENR,Industrials,Electrical Equipment & Parts
+EIG,Financial Services,Insurance—Specialty
+DNUT,Consumer Defensive,Grocery Stores
+ABR,Real Estate,REIT—Mortgage
+BCML,Financial Services,Banks—Regional
+SBH,Consumer Cyclical,Specialty Retail
+ACIC,Financial Services,Insurance—Property & Casualty
+MU,Technology,Semiconductors
+GDYN,Technology,Information Technology Services
+MACK,Other,Other
+FICO,Technology,Software—Application
+FATE,Healthcare,Biotechnology
+BCRX,Healthcare,Biotechnology
+DELL,Technology,Computer Hardware
+TDG,Industrials,Aerospace & Defense
+ADV,Communication Services,Advertising Agencies
+BCC,Basic Materials,Building Materials
+MVIS,Technology,Scientific & Technical Instruments
+BL,Technology,Software—Application
+CVCY,Other,Other
+NMIH,Financial Services,Insurance—Specialty
+PCRX,Healthcare,Drug Manufacturers—Specialty & Generic
+VRA,Consumer Cyclical,Footwear & Accessories
+DOV,Industrials,Specialty Industrial Machinery
+AZN,Healthcare,Drug Manufacturers—General
+LPRO,Financial Services,Credit Services
+SPFI,Financial Services,Banks—Regional
+SCL,Basic Materials,Specialty Chemicals
+EGHT,Technology,Software—Application
+TRN,Industrials,Railroads
+PTEN,Energy,Oil & Gas Drilling
+MRK,Healthcare,Drug Manufacturers—General
+LAUR,Consumer Defensive,Education & Training Services
+MED,Consumer Cyclical,Personal Services
+PBH,Healthcare,Drug Manufacturers—Specialty & Generic
+GSAT,Communication Services,Telecom Services
+SPHR,Communication Services,Entertainment
+ACA,Industrials,Engineering & Construction
+DX,Real Estate,REIT—Mortgage
+NEO,Healthcare,Diagnostics & Research
+PRM,Basic Materials,Specialty Chemicals
+ADI,Technology,Semiconductors
+QCRH,Financial Services,Banks—Regional
+WULF,Financial Services,Capital Markets
+RDVT,Technology,Software—Application
+LILAK,Communication Services,Telecom Services
+ANAB,Healthcare,Biotechnology
+PTVE,Consumer Cyclical,Packaging & Containers
+MRNA,Healthcare,Biotechnology
+VRSN,Technology,Software—Infrastructure
+SGRY,Healthcare,Medical Care Facilities
+RWT,Real Estate,REIT—Mortgage
+PCH,Real Estate,REIT—Specialty
+MEC,Industrials,Metal Fabrication
+JCI,Industrials,Building Products & Equipment
+MMS,Industrials,Specialty Business Services
+NRDS,Communication Services,Internet Content & Information
+KOD,Healthcare,Biotechnology
+BDC,Technology,Communication Equipment
+JRVR,Financial Services,Insurance—Specialty
+INST,Technology,Software—Application
+ESS,Real Estate,REIT—Residential
+SWX,Utilities,Utilities—Regulated Gas
+AMSWA,Technology,Software—Application
+OEC,Basic Materials,Specialty Chemicals
+PFE,Healthcare,Drug Manufacturers—General
+TFC,Financial Services,Banks—Regional
+STKS,Consumer Cyclical,Restaurants
+NWFL,Financial Services,Banks—Regional
+PRG,Industrials,Rental & Leasing Services
+MTDR,Energy,Oil & Gas E&P
+UNH,Healthcare,Healthcare Plans
+LSEA,Real Estate,Real Estate—Development
+HOMB,Financial Services,Banks—Regional
+CNX,Energy,Oil & Gas E&P
+EXC,Utilities,Utilities—Regulated Electric
+ABG,Consumer Cyclical,Auto & Truck Dealerships
+DYN,Healthcare,Biotechnology
+VTR,Real Estate,REIT—Healthcare Facilities
+KAI,Industrials,Specialty Industrial Machinery
+DG,Consumer Defensive,Discount Stores
+BOX,Technology,Software—Infrastructure
+TITN,Industrials,Industrial Distribution
+DK,Energy,Oil & Gas Refining & Marketing
+FORR,Industrials,Consulting Services
+MCRB,Healthcare,Biotechnology
+EMBC,Healthcare,Medical Instruments & Supplies
+FBRT,Real Estate,REIT—Mortgage
+TDY,Technology,Scientific & Technical Instruments
+HOUS,Real Estate,Real Estate Services
+NG,Basic Materials,Gold
+MYRG,Industrials,Engineering & Construction
+CDLX,Communication Services,Advertising Agencies
+CHCO,Financial Services,Banks—Regional
+FTNT,Technology,Software—Infrastructure
+BRBR,Consumer Defensive,Packaged Foods
+EE,Energy,Oil & Gas Midstream
+PCB,Financial Services,Banks—Regional
+FCF,Financial Services,Banks—Regional
+ENVA,Financial Services,Credit Services
+IDT,Communication Services,Telecom Services
+MMM,Industrials,Conglomerates
+CI,Healthcare,Healthcare Plans
+ESCA,Consumer Cyclical,Leisure
+FULT,Financial Services,Banks—Regional
+JBGS,Real Estate,REIT—Office
+VRNT,Technology,Software—Infrastructure
+AIT,Industrials,Industrial Distribution
+LEU,Energy,Uranium
+EHAB,Healthcare,Medical Care Facilities
+DCOM,Financial Services,Banks—Regional
+VICI,Real Estate,REIT—Diversified
+CABA,Healthcare,Biotechnology
+CCL,Consumer Cyclical,Travel Services
+NTGR,Technology,Communication Equipment
+MOFG,Financial Services,Banks—Regional
+FFIC,Financial Services,Banks—Regional
+JELD,Industrials,Building Products & Equipment
+ABNB,Consumer Cyclical,Travel Services
+MDGL,Healthcare,Biotechnology
+REG,Real Estate,REIT—Retail
+MCBS,Financial Services,Banks—Regional
+RCKY,Consumer Cyclical,Footwear & Accessories
+CAT,Industrials,Farm & Heavy Construction Machinery
+ARCB,Industrials,Trucking
+LCTX,Healthcare,Biotechnology
+FIGS,Consumer Cyclical,Apparel Manufacturing
+MNKD,Healthcare,Biotechnology
+IAS,Communication Services,Advertising Agencies
+OXM,Consumer Cyclical,Apparel Manufacturing
+FN,Technology,Electronic Components
+USNA,Consumer Defensive,Packaged Foods
+DHIL,Financial Services,Asset Management
+CTVA,Basic Materials,Agricultural Inputs
+BWB,Financial Services,Banks—Regional
+LPSN,Technology,Software—Application
+VTS,Energy,Oil & Gas E&P
+FF,Basic Materials,Specialty Chemicals
+VALU,Financial Services,Financial Data & Stock Exchanges
+CAG,Consumer Defensive,Packaged Foods
+META,Communication Services,Internet Content & Information
+CFB,Financial Services,Banks—Regional
+GWH,Industrials,Electrical Equipment & Parts
+WWW,Consumer Cyclical,Footwear & Accessories
+COOP,Financial Services,Mortgage Finance
+VOXX,Technology,Consumer Electronics
+BASE,Technology,Software—Infrastructure
+NEE,Utilities,Utilities—Regulated Electric
+ARCT,Healthcare,Biotechnology
+ALCO,Consumer Defensive,Farm Products
+STLD,Basic Materials,Steel
+PLRX,Healthcare,Biotechnology
+CARA,Healthcare,Biotechnology
+LC,Financial Services,Banks—Regional
+ATRI,Other,Other
+COCO,Consumer Defensive,Beverages—Non-Alcoholic
+TBPH,Healthcare,Biotechnology
+HCKT,Technology,Information Technology Services
+MLNK,Technology,Software—Application
+PLXS,Technology,Electronic Components
+LVS,Consumer Cyclical,Resorts & Casinos
+CRK,Energy,Oil & Gas E&P
+ITOS,Healthcare,Biotechnology
+FOXA,Communication Services,Entertainment
+FBIZ,Financial Services,Banks—Regional
+SMTC,Technology,Semiconductors
+SYF,Financial Services,Credit Services
+MODN,Other,Other
+CRNX,Healthcare,Biotechnology
+AZZ,Industrials,Specialty Business Services
+LNZA,Industrials,Waste Management
+CXW,Industrials,Security & Protection Services
+UONEK,Communication Services,Broadcasting
+NMRA,Healthcare,Biotechnology
+MAC,Real Estate,REIT—Retail
+PRKS,Consumer Cyclical,Leisure
+GBIO,Healthcare,Biotechnology
+RDN,Financial Services,Insurance—Specialty
+NSC,Industrials,Railroads
+MRNS,Healthcare,Biotechnology
+SEAT,Communication Services,Internet Content & Information
+AMPY,Energy,Oil & Gas E&P
+MRTN,Industrials,Trucking
+MA,Financial Services,Credit Services
+WHD,Energy,Oil & Gas Equipment & Services
+CPAY,Technology,Software—Infrastructure
+AXON,Industrials,Aerospace & Defense
+CHD,Consumer Defensive,Household & Personal Products
+ASRT,Healthcare,Drug Manufacturers—Specialty & Generic
+SHBI,Financial Services,Banks—Regional
+TARS,Healthcare,Biotechnology
+BOWL,Consumer Cyclical,Leisure
+GRC,Industrials,Specialty Industrial Machinery
+HLMN,Industrials,Tools & Accessories
+BLFY,Financial Services,Banks—Regional
+MGTX,Healthcare,Biotechnology
+HLIO,Industrials,Specialty Industrial Machinery
+SCHW,Financial Services,Capital Markets
+MARA,Financial Services,Capital Markets
+GAMB,Consumer Cyclical,Gambling
+ATNI,Communication Services,Telecom Services
+RXT,Technology,Software—Infrastructure
+BTBT,Financial Services,Capital Markets
+ENTA,Healthcare,Biotechnology
+KURA,Healthcare,Biotechnology
+ZYXI,Healthcare,Medical Distribution
+IQV,Healthcare,Diagnostics & Research
+TPR,Consumer Cyclical,Luxury Goods
+VEL,Financial Services,Mortgage Finance
+PEP,Consumer Defensive,Beverages—Non-Alcoholic
+FIZZ,Consumer Defensive,Beverages—Non-Alcoholic
+IBM,Technology,Information Technology Services
+LDOS,Technology,Information Technology Services
+FRME,Financial Services,Banks—Regional
+ITIC,Financial Services,Insurance—Specialty
+KAMN,Other,Other
+WAFD,Financial Services,Banks—Regional
+V,Financial Services,Credit Services
+ACRE,Real Estate,REIT—Mortgage
+METCB,Basic Materials,Coking Coal
+CMCSA,Communication Services,Telecom Services
+WBA,Healthcare,Pharmaceutical Retailers
+GTLS,Industrials,Specialty Industrial Machinery
+AMLX,Healthcare,Biotechnology
+VABK,Financial Services,Banks—Regional
+FOXF,Consumer Cyclical,Auto Parts
+PLAY,Communication Services,Entertainment
+ROIC,Real Estate,REIT—Retail
+SXT,Basic Materials,Specialty Chemicals
+SBRA,Real Estate,REIT—Healthcare Facilities
+FSLY,Technology,Software—Application
+SWBI,Industrials,Aerospace & Defense
+FLGT,Healthcare,Diagnostics & Research
+WBD,Communication Services,Entertainment
+NFBK,Financial Services,Banks—Regional
+SWK,Industrials,Tools & Accessories
+NSSC,Industrials,Security & Protection Services
+NKLA,Industrials,Farm & Heavy Construction Machinery
+ITRI,Technology,Scientific & Technical Instruments
+JILL,Consumer Cyclical,Apparel Retail
+AZO,Consumer Cyclical,Specialty Retail
+IHRT,Communication Services,Broadcasting
+ONTO,Technology,Semiconductor Equipment & Materials
+SIX,Other,Other
+HAS,Consumer Cyclical,Leisure
+FSBW,Financial Services,Banks—Regional
+XEL,Utilities,Utilities—Regulated Electric
+STNG,Energy,Oil & Gas Midstream
+MIR,Industrials,Specialty Industrial Machinery
+RCEL,Healthcare,Medical Devices
+AVAH,Healthcare,Medical Care Facilities
+FCPT,Real Estate,REIT—Retail
+UDR,Real Estate,REIT—Residential
+DFLI,Industrials,Electrical Equipment & Parts
+AJG,Financial Services,Insurance Brokers
+ZUO,Technology,Software—Infrastructure
+NOG,Energy,Oil & Gas E&P
+PNC,Financial Services,Banks—Regional
+CWCO,Utilities,Utilities—Regulated Water
+LASR,Technology,Semiconductors
+TBBK,Financial Services,Banks—Regional
+ZVRA,Healthcare,Biotechnology
+HLNE,Financial Services,Asset Management
+HLX,Energy,Oil & Gas Equipment & Services
+THRY,Communication Services,Internet Content & Information
+NWLI,Other,Other
+OSG,Other,Other
+CSCO,Technology,Communication Equipment
+AI,Technology,Software—Application
+GPOR,Energy,Oil & Gas E&P
+PAYO,Technology,Software—Infrastructure
+PCAR,Industrials,Farm & Heavy Construction Machinery
+NAPA,Consumer Defensive,Beverages—Wineries & Distilleries
+BGC,Financial Services,Capital Markets
+WTS,Industrials,Specialty Industrial Machinery
+JBT,Industrials,Specialty Industrial Machinery
+VERI,Technology,Software—Infrastructure
+QSI,Healthcare,Medical Devices
+PEPG,Healthcare,Biotechnology
+MODV,Healthcare,Medical Care Facilities
+GSBC,Financial Services,Banks—Regional
+KWR,Basic Materials,Specialty Chemicals
+ATRA,Healthcare,Biotechnology
+NUVL,Healthcare,Biotechnology
+MBWM,Financial Services,Banks—Regional
+SOUN,Technology,Software—Application
+MTW,Industrials,Farm & Heavy Construction Machinery
+GOOD,Real Estate,REIT—Diversified
+AMN,Healthcare,Medical Care Facilities
+CODI,Industrials,Conglomerates
+ELVN,Healthcare,Biotechnology
+BH,Consumer Cyclical,Restaurants
+FRPH,Real Estate,Real Estate Services
+GNTY,Financial Services,Banks—Regional
+ANIK,Healthcare,Drug Manufacturers—Specialty & Generic
+TMST,Other,Other
+DLX,Industrials,Conglomerates
+AGM,Financial Services,Credit Services
+CMTG,Real Estate,REIT—Mortgage
+SATS,Technology,Communication Equipment
+CUBI,Financial Services,Banks—Regional
+VKTX,Healthcare,Biotechnology
+CAH,Healthcare,Medical Distribution
+CIVB,Financial Services,Banks—Regional
+AVTE,Healthcare,Biotechnology
+BRCC,Consumer Defensive,Packaged Foods
+CXM,Technology,Software—Application
+CPF,Financial Services,Banks—Regional
+ACN,Technology,Information Technology Services
+DSKE,Other,Other
+ENV,Technology,Software—Application
+HELE,Consumer Defensive,Household & Personal Products
+MPB,Financial Services,Banks—Regional
+THRD,Healthcare,Biotechnology
+PFC,Financial Services,Banks—Regional
+BGS,Consumer Defensive,Packaged Foods
+HROW,Healthcare,Drug Manufacturers—Specialty & Generic
+UPWK,Communication Services,Internet Content & Information
+RDNT,Healthcare,Diagnostics & Research
+EGRX,Healthcare,Drug Manufacturers—Specialty & Generic
+ATLO,Financial Services,Banks—Regional
+NWS,Communication Services,Entertainment
+NVEC,Technology,Semiconductors
+GS,Financial Services,Capital Markets
+KTB,Consumer Cyclical,Apparel Manufacturing
+LOW,Consumer Cyclical,Home Improvement Retail
+POWL,Industrials,Electrical Equipment & Parts
+ZNTL,Healthcare,Biotechnology
+PBPB,Consumer Cyclical,Restaurants
+FWRG,Consumer Cyclical,Restaurants
+HBAN,Financial Services,Banks—Regional
+EVTC,Technology,Software—Infrastructure
+VST,Utilities,Utilities—Independent Power Producers
+MGNI,Communication Services,Advertising Agencies
+AIZ,Financial Services,Insurance—Property & Casualty
+HOLX,Healthcare,Medical Instruments & Supplies
+BIPC,Utilities,Utilities—Regulated Gas
+MDB,Technology,Software—Infrastructure
+DOW,Basic Materials,Chemicals
+PLMR,Financial Services,Insurance—Property & Casualty
+WK,Technology,Software—Application
+CSR,Real Estate,REIT—Residential
+VREX,Healthcare,Medical Devices
+TFIN,Financial Services,Banks—Regional
+NVR,Consumer Cyclical,Residential Construction
+CBU,Financial Services,Banks—Regional
+J,Industrials,Engineering & Construction
+VZ,Communication Services,Telecom Services
+MPX,Consumer Cyclical,Recreational Vehicles
+UNTY,Financial Services,Banks—Regional
+DFH,Consumer Cyclical,Residential Construction
+IRT,Real Estate,REIT—Residential
+VRSK,Industrials,Consulting Services
+INFU,Healthcare,Medical Instruments & Supplies
+ATI,Industrials,Metal Fabrication
+SVV,Consumer Cyclical,Specialty Retail
+KKR,Financial Services,Asset Management
+PTCT,Healthcare,Biotechnology
+SCWO,Industrials,Pollution & Treatment Controls
+FSR,Other,Other
+MGRC,Industrials,Rental & Leasing Services
+ARI,Real Estate,REIT—Mortgage
+OPTN,Healthcare,Drug Manufacturers—Specialty & Generic
+CNO,Financial Services,Insurance—Life
+CRGY,Energy,Oil & Gas Integrated
+CLBK,Financial Services,Banks—Regional
+ZYME,Healthcare,Biotechnology
+MGEE,Utilities,Utilities—Regulated Electric
+VRNS,Technology,Software—Infrastructure
+DM,Technology,Computer Hardware
+YORW,Utilities,Utilities—Regulated Water
+COUR,Consumer Defensive,Education & Training Services
+PKOH,Industrials,Specialty Industrial Machinery
+TSBX,Healthcare,Biotechnology
+RVLV,Consumer Cyclical,Internet Retail
+CFFI,Financial Services,Banks—Regional
+MNSB,Financial Services,Banks—Regional
+RRBI,Financial Services,Banks—Regional
+VOR,Healthcare,Biotechnology
+PATK,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+LULU,Consumer Cyclical,Apparel Retail
+VGAS,Utilities,Utilities—Renewable
+LZ,Industrials,Specialty Business Services
+REGN,Healthcare,Biotechnology
+GRPH,Other,Other
+OTIS,Industrials,Specialty Industrial Machinery
+CNS,Financial Services,Asset Management
+AUR,Technology,Information Technology Services
+PGR,Financial Services,Insurance—Property & Casualty
+COST,Consumer Defensive,Discount Stores
+RSG,Industrials,Waste Management
+FRGE,Financial Services,Capital Markets
+ZWS,Industrials,Pollution & Treatment Controls
+FBNC,Financial Services,Banks—Regional
+WNC,Industrials,Farm & Heavy Construction Machinery
+GOGL,Industrials,Marine Shipping
+EVGO,Consumer Cyclical,Specialty Retail
+SNPS,Technology,Software—Infrastructure
+AMEH,Other,Other
+GRTS,Healthcare,Biotechnology
+MHLD,Financial Services,Insurance—Reinsurance
+SLG,Real Estate,REIT—Office
+SIG,Consumer Cyclical,Luxury Goods
+URI,Industrials,Rental & Leasing Services
+ABBV,Healthcare,Drug Manufacturers—General
+BMY,Healthcare,Drug Manufacturers—General
+BCPC,Basic Materials,Specialty Chemicals
+WSBF,Financial Services,Banks—Regional
+AKR,Real Estate,REIT—Retail
+HVT,Consumer Cyclical,Home Improvement Retail
+SYK,Healthcare,Medical Devices
+MVST,Industrials,Electrical Equipment & Parts
+MYPS,Communication Services,Electronic Gaming & Multimedia
+VMEO,Technology,Software—Application
+RCL,Consumer Cyclical,Travel Services
+FRST,Financial Services,Banks—Regional
+OFLX,Industrials,Specialty Industrial Machinery
+EDIT,Healthcare,Biotechnology
+RLJ,Real Estate,REIT—Hotel & Motel
+VUZI,Technology,Consumer Electronics
+ARKO,Consumer Cyclical,Specialty Retail
+DTE,Utilities,Utilities—Regulated Electric
+AVIR,Healthcare,Biotechnology
+PETS,Healthcare,Pharmaceutical Retailers
+AORT,Healthcare,Medical Devices
+CATC,Other,Other
+CLSK,Financial Services,Capital Markets
+PODD,Healthcare,Medical Devices
+CLDT,Real Estate,REIT—Hotel & Motel
+TGNA,Communication Services,Broadcasting
+COMM,Technology,Communication Equipment
+VIAV,Technology,Communication Equipment
+XMTR,Industrials,Specialty Industrial Machinery
+OCN,Other,Other
+GPN,Industrials,Specialty Business Services
+KIDS,Healthcare,Medical Devices
+KOP,Basic Materials,Specialty Chemicals
+SLP,Healthcare,Health Information Services
+QLYS,Technology,Software—Infrastructure
+TPIC,Industrials,Specialty Industrial Machinery
+DRH,Real Estate,REIT—Hotel & Motel
+CCI,Real Estate,REIT—Specialty
+VVI,Industrials,Specialty Business Services
+MITK,Technology,Software—Application
+SR,Utilities,Utilities—Regulated Gas
+SMCI,Technology,Computer Hardware
+NHC,Healthcare,Medical Care Facilities
+ADM,Consumer Defensive,Farm Products
+ELV,Healthcare,Healthcare Plans
+RRGB,Consumer Cyclical,Restaurants
+BBAI,Technology,Information Technology Services
+UTL,Utilities,Utilities—Diversified
+RUSHB,Consumer Cyclical,Auto & Truck Dealerships
+CNMD,Healthcare,Medical Devices
+EVEX,Industrials,Aerospace & Defense
+MRVL,Technology,Semiconductors
+BBW,Consumer Cyclical,Specialty Retail
+CRL,Healthcare,Diagnostics & Research
+BKR,Energy,Oil & Gas Equipment & Services
+WOW,Communication Services,Telecom Services
+DNOW,Industrials,Industrial Distribution
+ADBE,Technology,Software—Infrastructure
+DFS,Financial Services,Credit Services
+NEWT,Financial Services,Banks—Regional
+PDCO,Healthcare,Medical Distribution
+TRDA,Healthcare,Biotechnology
+TSQ,Communication Services,Advertising Agencies
+GDDY,Technology,Software—Infrastructure
+ELA,Consumer Cyclical,Luxury Goods
+B,Industrials,Specialty Industrial Machinery
+BRT,Real Estate,REIT—Residential
+PACB,Healthcare,Medical Devices
+PSX,Energy,Oil & Gas Refining & Marketing
+MRC,Energy,Oil & Gas Equipment & Services
+EQBK,Financial Services,Banks—Regional
+CZR,Consumer Cyclical,Resorts & Casinos
+CDXS,Healthcare,Biotechnology
+PRST,Technology,Software—Application
+HEAR,Technology,Consumer Electronics
+KLXE,Energy,Oil & Gas Equipment & Services
+SMMF,Other,Other
+NEM,Basic Materials,Gold
+WFRD,Energy,Oil & Gas Equipment & Services
+GORV,Consumer Cyclical,Auto & Truck Dealerships
+XHR,Real Estate,REIT—Hotel & Motel
+PDM,Real Estate,REIT—Office
+TRC,Industrials,Conglomerates
+MGM,Consumer Cyclical,Resorts & Casinos
+ORRF,Financial Services,Banks—Regional
+MYE,Consumer Cyclical,Packaging & Containers
+SEMR,Technology,Software—Application
+ULTA,Consumer Cyclical,Specialty Retail
+FLL,Consumer Cyclical,Resorts & Casinos
+RELY,Technology,Software—Infrastructure
+ERIE,Financial Services,Insurance Brokers
+BKE,Consumer Cyclical,Apparel Retail
+TDW,Energy,Oil & Gas Equipment & Services
+CDNS,Technology,Software—Application
+ABM,Industrials,Specialty Business Services
+CRNC,Technology,Software—Application
+FLYW,Technology,Software—Infrastructure
+SMP,Consumer Cyclical,Auto Parts
+UPS,Industrials,Integrated Freight & Logistics
+INVA,Healthcare,Biotechnology
+OPFI,Financial Services,Credit Services
+CTLT,Healthcare,Drug Manufacturers—Specialty & Generic
+PROK,Healthcare,Biotechnology
+HDSN,Basic Materials,Specialty Chemicals
+TGI,Industrials,Aerospace & Defense
+CVLT,Technology,Software—Application
+TRTX,Real Estate,REIT—Mortgage
+BIGC,Technology,Software—Application
+GOOG,Communication Services,Internet Content & Information
+JAKK,Consumer Cyclical,Leisure
+TJX,Consumer Cyclical,Apparel Retail
+HGV,Consumer Cyclical,Resorts & Casinos
+SRRK,Healthcare,Biotechnology
+ORGO,Healthcare,Drug Manufacturers—Specialty & Generic
+HIFS,Financial Services,Banks—Regional
+TMHC,Consumer Cyclical,Residential Construction
+HUBG,Industrials,Integrated Freight & Logistics
+KMI,Energy,Oil & Gas Midstream
+FRBA,Financial Services,Banks—Regional
+PSTL,Real Estate,REIT—Office
+BDX,Healthcare,Medical Instruments & Supplies
+SRCE,Financial Services,Banks—Regional
+MNTK,Utilities,Utilities—Diversified
+BNL,Real Estate,REIT—Diversified
+HALO,Healthcare,Biotechnology
+APLD,Technology,Information Technology Services
+CALM,Consumer Defensive,Farm Products
+SOVO,Other,Other
+FDS,Financial Services,Financial Data & Stock Exchanges
+KLIC,Technology,Semiconductor Equipment & Materials
+PPG,Basic Materials,Specialty Chemicals
+EL,Consumer Defensive,Household & Personal Products
+PRVA,Healthcare,Health Information Services
+OXY,Energy,Oil & Gas E&P
+XPEL,Consumer Cyclical,Auto Parts
+ATMU,Industrials,Pollution & Treatment Controls
+SAGE,Healthcare,Biotechnology
+FA,Industrials,Specialty Business Services
+ALTR,Technology,Software—Infrastructure
+IIIN,Industrials,Metal Fabrication
+EXR,Real Estate,REIT—Industrial
+WABC,Financial Services,Banks—Regional
+FORM,Technology,Semiconductor Equipment & Materials
+MGNX,Healthcare,Biotechnology
+ARAY,Healthcare,Medical Devices
+AEE,Utilities,Utilities—Regulated Electric
+MO,Consumer Defensive,Tobacco
+PRPL,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+GPRE,Basic Materials,Chemicals
+RNGR,Energy,Oil & Gas Equipment & Services
+FDBC,Financial Services,Banks—Regional
+NCLH,Consumer Cyclical,Travel Services
+DAWN,Healthcare,Biotechnology
+KEY,Financial Services,Banks—Regional
+MATV,Basic Materials,Specialty Chemicals
+LGFB,Other,Other
+RMNI,Technology,Software—Application
+RMR,Real Estate,Real Estate Services
+PRLD,Healthcare,Biotechnology
+AGTI,Other,Other
+BLDR,Industrials,Building Products & Equipment
+LOVE,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+ACVA,Consumer Cyclical,Auto & Truck Dealerships
+ENFN,Technology,Software—Application
+ORIC,Healthcare,Biotechnology
+RGNX,Healthcare,Biotechnology
+BTU,Energy,Thermal Coal
+WDAY,Technology,Software—Application
+NMRK,Real Estate,Real Estate Services
+GRND,Technology,Software—Application
+SHCR,Healthcare,Health Information Services
+AMAL,Financial Services,Banks—Regional
+BSRR,Financial Services,Banks—Regional
+FENC,Healthcare,Biotechnology
+CTXR,Healthcare,Biotechnology
+AOSL,Technology,Semiconductors
+ULH,Industrials,Trucking
+VCYT,Healthcare,Diagnostics & Research
+ULCC,Industrials,Airlines
+TTI,Energy,Oil & Gas Equipment & Services
+CGEM,Healthcare,Biotechnology
+FSLR,Technology,Solar
+SGMO,Healthcare,Biotechnology
+KNF,Basic Materials,Building Materials
+SP,Other,Other
+MRO,Energy,Oil & Gas E&P
+CMG,Consumer Cyclical,Restaurants
+WINA,Consumer Cyclical,Specialty Retail
+IRBT,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+ACCO,Industrials,Business Equipment & Supplies
+KRYS,Healthcare,Biotechnology
+SMTI,Healthcare,Medical Instruments & Supplies
+ISRG,Healthcare,Medical Instruments & Supplies
+FLR,Industrials,Engineering & Construction
+DPZ,Consumer Cyclical,Restaurants
+BELFB,Technology,Electronic Components
+HWM,Industrials,Aerospace & Defense
+CVGW,Consumer Defensive,Food Distribution
+AVO,Consumer Defensive,Food Distribution
+ADP,Technology,Software—Application
+KNTK,Energy,Oil & Gas Midstream
+VTRS,Healthcare,Drug Manufacturers—Specialty & Generic
+MOV,Consumer Cyclical,Luxury Goods
+BPRN,Financial Services,Banks—Regional
+CSX,Industrials,Railroads
+PKG,Consumer Cyclical,Packaging & Containers
+STEM,Utilities,Utilities—Renewable
+DO,Energy,Oil & Gas Drilling
+III,Technology,Information Technology Services
+SWKS,Technology,Semiconductors
+BIG,Consumer Defensive,Discount Stores
+DOMO,Technology,Software—Application
+EBAY,Consumer Cyclical,Internet Retail
+SGMT,Healthcare,Biotechnology
+PFBC,Financial Services,Banks—Regional
+FANG,Energy,Oil & Gas E&P
+LXP,Real Estate,REIT—Industrial
+EPRT,Real Estate,REIT—Diversified
+ATLC,Financial Services,Credit Services
+AMAT,Technology,Semiconductor Equipment & Materials
+CPRX,Healthcare,Biotechnology
+DVAX,Healthcare,Drug Manufacturers—Specialty & Generic
+NVRO,Healthcare,Medical Devices
+PI,Technology,Communication Equipment
+VIR,Healthcare,Biotechnology
+PYPL,Financial Services,Credit Services
+BXP,Real Estate,REIT—Office
+LHX,Industrials,Aerospace & Defense
+HOPE,Financial Services,Banks—Regional
+SASR,Financial Services,Banks—Regional
+DBI,Consumer Cyclical,Footwear & Accessories
+GNL,Real Estate,REIT—Diversified
+IVAC,Industrials,Specialty Industrial Machinery
+CCEP,Consumer Defensive,Beverages—Non-Alcoholic
+SLVM,Basic Materials,Paper & Paper Products
+NXT,Technology,Solar
+LKFN,Financial Services,Banks—Regional
+STKL,Consumer Defensive,Beverages—Non-Alcoholic
+PANW,Technology,Software—Infrastructure
+WELL,Real Estate,REIT—Healthcare Facilities
+CTRE,Real Estate,REIT—Healthcare Facilities
+UFCS,Financial Services,Insurance—Property & Casualty
+PLYM,Real Estate,REIT—Industrial
+PMVP,Healthcare,Biotechnology
+HOV,Consumer Cyclical,Residential Construction
+JKHY,Technology,Information Technology Services
+BTAI,Healthcare,Biotechnology
+CWT,Utilities,Utilities—Regulated Water
+IBTX,Financial Services,Banks—Regional
+SAVA,Healthcare,Biotechnology
+PDLI,Other,Other
+DENN,Consumer Cyclical,Restaurants
+STT,Financial Services,Asset Management
+MPLN,Healthcare,Health Information Services
+BR,Technology,Information Technology Services
+CMS,Utilities,Utilities—Regulated Electric
+KLAC,Technology,Semiconductor Equipment & Materials
+ASLE,Industrials,Airports & Air Services
+GNW,Financial Services,Insurance—Life
+DIN,Consumer Cyclical,Restaurants
+NFLX,Communication Services,Entertainment
+STX,Technology,Computer Hardware
+GILD,Healthcare,Drug Manufacturers—General
+AOMR,Real Estate,REIT—Mortgage
+MCRI,Consumer Cyclical,Resorts & Casinos
+RLGT,Industrials,Integrated Freight & Logistics
+OMI,Healthcare,Medical Distribution
+HAFC,Financial Services,Banks—Regional
+PRK,Financial Services,Banks—Regional
+EG,Financial Services,Insurance—Reinsurance
+HSY,Consumer Defensive,Confectioners
+SPXC,Industrials,Building Products & Equipment
+VGR,Consumer Defensive,Tobacco
+TEAM,Technology,Software—Application
+RGP,Industrials,Consulting Services
+INFN,Technology,Communication Equipment
+ALEC,Healthcare,Biotechnology
+TENB,Technology,Software—Infrastructure
+VRDN,Healthcare,Biotechnology
+PFS,Financial Services,Banks—Regional
+TOWN,Financial Services,Banks—Regional
+ROAD,Industrials,Engineering & Construction
+TROW,Financial Services,Asset Management
+KMX,Consumer Cyclical,Auto & Truck Dealerships
+URGN,Healthcare,Biotechnology
+SAVE,Industrials,Airlines
+CDE,Basic Materials,Gold
+VSTO,Consumer Cyclical,Leisure
+GOOGL,Communication Services,Internet Content & Information
+TTWO,Communication Services,Electronic Gaming & Multimedia
+XPRO,Energy,Oil & Gas Equipment & Services
+CPRT,Industrials,Specialty Business Services
+CTKB,Healthcare,Medical Devices
+PLSE,Healthcare,Medical Instruments & Supplies
+CBT,Basic Materials,Specialty Chemicals
+AIG,Financial Services,Insurance—Diversified
+FHTX,Healthcare,Biotechnology
+MKC,Consumer Defensive,Packaged Foods
+SEM,Healthcare,Medical Care Facilities
+SBT,Financial Services,Banks—Regional
+XNCR,Healthcare,Biotechnology
+MSEX,Utilities,Utilities—Regulated Water
+TRV,Financial Services,Insurance—Property & Casualty
+AVNT,Basic Materials,Specialty Chemicals
+ITGR,Healthcare,Medical Devices
+KR,Consumer Defensive,Grocery Stores
+RBBN,Communication Services,Telecom Services
+COP,Energy,Oil & Gas E&P
+WY,Real Estate,REIT—Specialty
+SFIX,Consumer Cyclical,Apparel Retail
+CMT,Basic Materials,Specialty Chemicals
+BLBD,Industrials,Farm & Heavy Construction Machinery
+L,Financial Services,Insurance—Property & Casualty
+KBH,Consumer Cyclical,Residential Construction
+SES,Consumer Cyclical,Auto Parts
+AMD,Technology,Semiconductors
+SITC,Real Estate,REIT—Retail
+UUUU,Energy,Uranium
+TREE,Financial Services,Financial Conglomerates
+SIGA,Healthcare,Drug Manufacturers—Specialty & Generic
+MDRX,Healthcare,Health Information Services
+VYGR,Healthcare,Biotechnology
+EW,Healthcare,Medical Devices
+PBFS,Financial Services,Banks—Regional
+ACDC,Energy,Oil & Gas Equipment & Services
+EBF,Industrials,Business Equipment & Supplies
+AFCG,Real Estate,REIT—Mortgage
+RF,Financial Services,Banks—Regional
+VERV,Healthcare,Biotechnology
+IOVA,Healthcare,Biotechnology
+SWTX,Healthcare,Biotechnology
+SPG,Real Estate,REIT—Retail
+BTMD,Healthcare,Medical Care Facilities
+CFG,Financial Services,Banks—Regional
+POOL,Industrials,Industrial Distribution
+HII,Industrials,Aerospace & Defense
+STZ,Consumer Defensive,Beverages—Brewers
+HLLY,Consumer Cyclical,Auto Parts
+ATKR,Industrials,Electrical Equipment & Parts
+CENX,Basic Materials,Aluminum
+TGAN,Other,Other
+AMZN,Consumer Cyclical,Internet Retail
+BFH,Financial Services,Credit Services
+MG,Industrials,Security & Protection Services
+WEST,Consumer Defensive,Packaged Foods
+SFL,Industrials,Marine Shipping
+PZZA,Consumer Cyclical,Restaurants
+CTBI,Financial Services,Banks—Regional
+IKNA,Healthcare,Biotechnology
+OSUR,Healthcare,Medical Instruments & Supplies
+FCBC,Financial Services,Banks—Regional
+WDC,Technology,Computer Hardware
+TARO,Other,Other
+BJRI,Consumer Cyclical,Restaurants
+AURA,Healthcare,Biotechnology
+NTB,Financial Services,Banks—Diversified
+TUSK,Industrials,Conglomerates
+GTXI,Other,Other
+NRGV,Utilities,Utilities—Renewable
+HLF,Consumer Defensive,Packaged Foods
+DVN,Energy,Oil & Gas E&P
+OB,Communication Services,Internet Content & Information
+WLDN,Industrials,Engineering & Construction
+VTNR,Energy,Oil & Gas Refining & Marketing
+MKTX,Financial Services,Capital Markets
+AOS,Industrials,Specialty Industrial Machinery
+KRMD,Healthcare,Medical Instruments & Supplies
+UVV,Consumer Defensive,Tobacco
+CFFN,Financial Services,Banks—Regional
+ITI,Technology,Communication Equipment
+EVA,Basic Materials,Lumber & Wood Production
+DD,Basic Materials,Specialty Chemicals
+OBK,Financial Services,Banks—Regional
+COR,Healthcare,Medical Distribution
+YEXT,Technology,Software—Infrastructure
+MSBI,Financial Services,Banks—Regional
+RILY,Financial Services,Financial Conglomerates
+SMR,Industrials,Specialty Industrial Machinery
+SO,Utilities,Utilities—Regulated Electric
+BHLB,Financial Services,Banks—Regional
+HD,Consumer Cyclical,Home Improvement Retail
+ONTF,Technology,Software—Application
+ASC,Industrials,Marine Shipping
+ORA,Utilities,Utilities—Renewable
+EPM,Energy,Oil & Gas E&P
+EPAM,Technology,Information Technology Services
+SJW,Utilities,Utilities—Regulated Water
+CRDA,Other,Other
+LGIH,Consumer Cyclical,Residential Construction
+BIRD,Consumer Cyclical,Apparel Retail
+MIRM,Healthcare,Biotechnology
+RYTM,Healthcare,Biotechnology
+MKTW,Financial Services,Financial Data & Stock Exchanges
+ZBRA,Technology,Communication Equipment
+BX,Financial Services,Asset Management
+COF,Financial Services,Credit Services
+TVTX,Healthcare,Biotechnology
+UBER,Technology,Software—Application
+LRN,Consumer Defensive,Education & Training Services
+MC,Financial Services,Capital Markets
+FOR,Real Estate,Real Estate—Development
+KW,Real Estate,Real Estate Services
+PAR,Technology,Software—Application
+AMPX,Industrials,Electrical Equipment & Parts
+SPSC,Technology,Software—Application
+DOOR,Other,Other
+AUPH,Healthcare,Biotechnology
+HQY,Healthcare,Health Information Services
+HZO,Consumer Cyclical,Specialty Retail
+CSTM,Basic Materials,Aluminum
+MHO,Consumer Cyclical,Residential Construction
+TSCO,Consumer Cyclical,Specialty Retail
+IBEX,Technology,Information Technology Services
+CRBU,Healthcare,Biotechnology
+PTGX,Healthcare,Biotechnology
+HOFT,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+HTH,Financial Services,Banks—Regional
+SHOO,Consumer Cyclical,Footwear & Accessories
+IRON,Healthcare,Biotechnology
+LYEL,Healthcare,Biotechnology
+KPTI,Healthcare,Biotechnology
+GEHC,Healthcare,Health Information Services
+BA,Industrials,Aerospace & Defense
+TRUE,Communication Services,Internet Content & Information
+ATRO,Industrials,Aerospace & Defense
+RENT,Consumer Cyclical,Apparel Retail
+SLQT,Financial Services,Insurance Brokers
+GRMN,Technology,Scientific & Technical Instruments
+EXPD,Industrials,Integrated Freight & Logistics
+PM,Consumer Defensive,Tobacco
+DZSI,Technology,Communication Equipment
+LMNR,Consumer Defensive,Farm Products
+AMT,Real Estate,REIT—Specialty
+INSE,Consumer Cyclical,Gambling
+AMNB,Other,Other
+BKH,Utilities,Utilities—Regulated Gas
+EYPT,Healthcare,Biotechnology
+SNBR,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+GABC,Financial Services,Banks—Regional
+RXRX,Healthcare,Biotechnology
+NVCT,Healthcare,Biotechnology
+MEG,Industrials,Waste Management
+CNXN,Technology,Electronics & Computer Distribution
+SBAC,Real Estate,REIT—Specialty
+SABR,Technology,Software—Infrastructure
+ZS,Technology,Software—Infrastructure
+SKIL,Consumer Defensive,Education & Training Services
+NBHC,Financial Services,Banks—Regional
+SXI,Industrials,Specialty Industrial Machinery
+TPC,Industrials,Engineering & Construction
+GCO,Consumer Cyclical,Apparel Retail
+APAM,Financial Services,Asset Management
+CHX,Energy,Oil & Gas Equipment & Services
+BECN,Industrials,Industrial Distribution
+FI,Technology,Information Technology Services
+FEAM,Basic Materials,Specialty Chemicals
+NX,Industrials,Building Products & Equipment
+UHS,Healthcare,Medical Care Facilities
+MSFT,Technology,Software—Infrastructure
+RSI,Consumer Cyclical,Gambling
+HCSG,Healthcare,Medical Care Facilities
+INZY,Healthcare,Biotechnology
+PPL,Utilities,Utilities—Regulated Electric
+OLP,Real Estate,REIT—Diversified
+FFBC,Financial Services,Banks—Regional
+LMND,Financial Services,Insurance—Property & Casualty
+AMBA,Technology,Semiconductor Equipment & Materials
+LTC,Real Estate,REIT—Healthcare Facilities
+PWR,Industrials,Engineering & Construction
+SW,Consumer Cyclical,Packaging & Containers
+SQSP,Technology,Software—Infrastructure
+SB,Industrials,Marine Shipping
+MCK,Healthcare,Medical Distribution
+MWA,Industrials,Specialty Industrial Machinery
+RELL,Technology,Electronic Components
+DC,Basic Materials,Gold
+VTLE,Energy,Oil & Gas E&P
+SMPL,Consumer Defensive,Packaged Foods
+ONL,Real Estate,REIT—Office
+KRUS,Consumer Cyclical,Restaurants
+SAFE,Real Estate,REIT—Diversified
+NODK,Financial Services,Insurance—Property & Casualty
+CNK,Communication Services,Entertainment
+RL,Consumer Cyclical,Apparel Manufacturing
+DOUG,Real Estate,Real Estate Services
+GENC,Industrials,Farm & Heavy Construction Machinery
+JNJ,Healthcare,Drug Manufacturers—General
+SCS,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+RICK,Consumer Cyclical,Restaurants
+NDLS,Consumer Cyclical,Restaurants
+RBB,Financial Services,Banks—Regional
+IPAR,Consumer Defensive,Household & Personal Products
+NREF,Real Estate,REIT—Mortgage
+TAP,Consumer Defensive,Beverages—Brewers
+PPBI,Financial Services,Banks—Regional
+FIP,Industrials,Conglomerates
+TNYA,Healthcare,Biotechnology
+ZURA,Healthcare,Biotechnology
+BZH,Consumer Cyclical,Residential Construction
+BRK-B,Financial Services,Insurance—Diversified
+NUVB,Healthcare,Biotechnology
+RYAM,Basic Materials,Chemicals
+STOK,Healthcare,Biotechnology
+AEVA,Technology,Software—Infrastructure
+BARK,Consumer Cyclical,Specialty Retail
+ARRY,Technology,Solar
+LXRX,Healthcare,Biotechnology
+NOVA,Technology,Solar
+CTOS,Industrials,Rental & Leasing Services
+NAT,Energy,Oil & Gas Midstream
+DIS,Communication Services,Entertainment
+HAIN,Consumer Defensive,Packaged Foods
+ADMA,Healthcare,Biotechnology
+EEX,Communication Services,Advertising Agencies
+NWSA,Communication Services,Entertainment
+CCRN,Healthcare,Medical Care Facilities
+NC,Energy,Thermal Coal
+ECPG,Financial Services,Mortgage Finance
+MLM,Basic Materials,Building Materials
+NNI,Financial Services,Credit Services
+GDEN,Consumer Cyclical,Resorts & Casinos
+PH,Industrials,Specialty Industrial Machinery
+QRVO,Technology,Semiconductors
+ASTE,Industrials,Farm & Heavy Construction Machinery
+IMMR,Technology,Software—Application
+PRDO,Consumer Defensive,Education & Training Services
+RDFN,Real Estate,Real Estate Services
+RKLB,Industrials,Aerospace & Defense
+TG,Industrials,Metal Fabrication
+BGFV,Consumer Cyclical,Specialty Retail
+RNAC,Healthcare,Biotechnology
+CNNE,Consumer Cyclical,Restaurants
+LGND,Healthcare,Biotechnology
+OCFC,Financial Services,Banks—Regional
+PETQ,Healthcare,Drug Manufacturers—Specialty & Generic
+ECVT,Basic Materials,Specialty Chemicals
+EBC,Financial Services,Banks—Regional
+OI,Consumer Cyclical,Packaging & Containers
+RDUS,Basic Materials,Steel
+ATXS,Healthcare,Biotechnology
+HRT,Other,Other
+KVHI,Technology,Communication Equipment
+PSN,Technology,Information Technology Services
+QTRX,Healthcare,Medical Devices
+MNST,Consumer Defensive,Beverages—Non-Alcoholic
+MD,Healthcare,Medical Care Facilities
+SNCY,Industrials,Airlines
+ACNB,Financial Services,Banks—Regional
+CVX,Energy,Oil & Gas Integrated
+ETR,Utilities,Utilities—Regulated Electric
+AVY,Consumer Cyclical,Packaging & Containers
+TRST,Financial Services,Banks—Regional
+LYB,Basic Materials,Specialty Chemicals
+TXN,Technology,Semiconductors
+SKIN,Consumer Defensive,Household & Personal Products
+INVH,Real Estate,REIT—Residential
+DAY,Technology,Software—Application
+KYMR,Healthcare,Biotechnology
+SFM,Consumer Defensive,Grocery Stores
+PSTX,Healthcare,Biotechnology
+GCI,Communication Services,Publishing
+COKE,Consumer Defensive,Beverages—Non-Alcoholic
+CBNK,Financial Services,Banks—Regional
+AME,Industrials,Specialty Industrial Machinery
+TRMK,Financial Services,Banks—Regional
+OSIS,Technology,Electronic Components
+ELME,Real Estate,REIT—Residential
+MHK,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+HURN,Industrials,Consulting Services
+HIBB,Other,Other
+PAGS,Technology,Software—Infrastructure
+EGLE,Other,Other
+NAUT,Healthcare,Biotechnology
+FE,Utilities,Utilities—Regulated Electric
+CMCL,Basic Materials,Gold
+AHH,Real Estate,REIT—Diversified
+FCEL,Industrials,Electrical Equipment & Parts
+ONB,Financial Services,Banks—Regional
+LESL,Consumer Cyclical,Specialty Retail
+AXSM,Healthcare,Biotechnology
+GEVO,Basic Materials,Specialty Chemicals
+SMHI,Industrials,Marine Shipping
+ESNT,Financial Services,Insurance—Specialty
+EXLS,Technology,Information Technology Services
+VCEL,Healthcare,Biotechnology
+SNEX,Financial Services,Capital Markets
+DIOD,Technology,Semiconductors
+COO,Healthcare,Medical Instruments & Supplies
+APH,Technology,Electronic Components
+MORF,Other,Other
+CCB,Financial Services,Banks—Regional
+KODK,Industrials,Specialty Business Services
+GWW,Industrials,Industrial Distribution
+CLPR,Real Estate,REIT—Residential
+FTDR,Consumer Cyclical,Personal Services
+SENEA,Consumer Defensive,Packaged Foods
+LNW,Consumer Cyclical,Gambling
+PGTI,Other,Other
+SIBN,Healthcare,Medical Devices
+ACLS,Technology,Semiconductor Equipment & Materials
+LWLG,Basic Materials,Specialty Chemicals
+BLMN,Consumer Cyclical,Restaurants
+CLDX,Healthcare,Biotechnology
+PIPR,Financial Services,Capital Markets
+BK,Financial Services,Banks—Diversified
+TNET,Industrials,Staffing & Employment Services
+GATX,Industrials,Rental & Leasing Services
+OOMA,Technology,Software—Application
+DSGR,Industrials,Industrial Distribution
+TROX,Basic Materials,Chemicals
+RPHM,Healthcare,Biotechnology
+BATRA,Communication Services,Entertainment
+ASTS,Technology,Communication Equipment
+FOLD,Healthcare,Biotechnology
+CIVI,Energy,Oil & Gas E&P
+HAYN,Industrials,Metal Fabrication
+RCKT,Healthcare,Biotechnology
+XERS,Healthcare,Biotechnology
+FUBO,Communication Services,Broadcasting
+GMRE,Real Estate,REIT—Healthcare Facilities
+IDXX,Healthcare,Diagnostics & Research
+WYNN,Consumer Cyclical,Resorts & Casinos
+MPC,Energy,Oil & Gas Refining & Marketing
+REFI,Real Estate,REIT—Mortgage
+WKHS,Consumer Cyclical,Auto Manufacturers
+SRE,Utilities,Utilities—Diversified
+NTRS,Financial Services,Asset Management
+ALVR,Healthcare,Biotechnology
+JBI,Industrials,Building Products & Equipment
+AVDX,Technology,Software—Infrastructure
+CNP,Utilities,Utilities—Regulated Electric
+HPK,Energy,Oil & Gas E&P
+MBCN,Financial Services,Banks—Regional
+NXDT,Real Estate,REIT—Diversified
+CRMD,Healthcare,Biotechnology
+APG,Industrials,Engineering & Construction
+ONEW,Consumer Cyclical,Specialty Retail
+SSTI,Technology,Software—Application
+NHI,Real Estate,REIT—Healthcare Facilities
+BSIG,Financial Services,Asset Management
+PLAB,Technology,Semiconductor Equipment & Materials
+MTSI,Technology,Semiconductors
+QNST,Communication Services,Advertising Agencies
+CTLP,Technology,Information Technology Services
+TYRA,Healthcare,Biotechnology
+AIV,Real Estate,REIT—Residential
+DCPH,Other,Other
+TIPT,Financial Services,Insurance—Specialty
+LCNB,Financial Services,Banks—Regional
+RBCAA,Financial Services,Banks—Regional
+TTSH,Consumer Cyclical,Home Improvement Retail
+RNST,Financial Services,Banks—Regional
+OPCH,Healthcare,Medical Care Facilities
+IONQ,Technology,Computer Hardware
+NVEE,Industrials,Engineering & Construction
+IRM,Real Estate,REIT—Specialty
+GBTG,Technology,Software—Application
+VSH,Technology,Semiconductors
+TEL,Technology,Electronic Components
+EQIX,Real Estate,REIT—Specialty
+CCO,Communication Services,Advertising Agencies
+CDRE,Industrials,Aerospace & Defense
+CHCT,Real Estate,REIT—Healthcare Facilities
+HSII,Industrials,Staffing & Employment Services
+MYFW,Financial Services,Banks—Regional
+ATEC,Healthcare,Medical Devices
+FOX,Communication Services,Entertainment
+AVXL,Healthcare,Biotechnology
+GMS,Industrials,Building Products & Equipment
+EQT,Energy,Oil & Gas E&P
+HP,Energy,Oil & Gas Drilling
+BYON,Consumer Cyclical,Internet Retail
+LVWR,Consumer Cyclical,Auto Manufacturers
+PCYO,Utilities,Utilities—Regulated Water
+GHC,Consumer Defensive,Education & Training Services
+PMTS,Financial Services,Credit Services
+AXP,Financial Services,Credit Services
+ACIW,Technology,Software—Infrastructure
+LLAP,Industrials,Aerospace & Defense
+AMR,Basic Materials,Coking Coal
+CRDO,Technology,Semiconductors
+GCMG,Financial Services,Asset Management
+PFIS,Financial Services,Banks—Regional
+VRTS,Financial Services,Asset Management
+GSHD,Financial Services,Insurance—Diversified
+BBIO,Healthcare,Biotechnology
+WKC,Energy,Oil & Gas Refining & Marketing
+IMXI,Technology,Software—Infrastructure
+ASML,Technology,Semiconductor Equipment & Materials
+CURV,Consumer Cyclical,Apparel Retail
+RBOT,Healthcare,Medical Devices
+FARO,Technology,Scientific & Technical Instruments
+DORM,Consumer Cyclical,Auto Parts
+SFBS,Financial Services,Banks—Regional
+GTY,Real Estate,REIT—Retail
+ORGN,Basic Materials,Chemicals
+CDP,Real Estate,REIT—Office
+PCT,Industrials,Pollution & Treatment Controls
+LICY,Industrials,Waste Management
+PRLB,Industrials,Metal Fabrication
+ISPR,Consumer Defensive,Tobacco
+BAND,Technology,Software—Infrastructure
+BMI,Technology,Scientific & Technical Instruments
+RVNC,Healthcare,Biotechnology
+APGE,Healthcare,Biotechnology
+ADEA,Technology,Software—Application
+BDN,Real Estate,REIT—Office
+BFLY,Healthcare,Medical Devices
+NL,Industrials,Security & Protection Services
+STBA,Financial Services,Banks—Regional
+SUPN,Healthcare,Drug Manufacturers—Specialty & Generic
+TCBX,Financial Services,Banks—Regional
+CCS,Real Estate,Real Estate—Development
+ABCB,Financial Services,Banks—Regional
+IBRX,Healthcare,Biotechnology
+SYY,Consumer Defensive,Food Distribution
+IR,Industrials,Specialty Industrial Machinery
+HSTM,Healthcare,Health Information Services
+TBI,Industrials,Staffing & Employment Services
+ADUS,Healthcare,Medical Care Facilities
+PLX,Healthcare,Biotechnology
+DSGN,Healthcare,Biotechnology
+IPG,Communication Services,Advertising Agencies
+SOI,Energy,Oil & Gas Equipment & Services
+SSBK,Financial Services,Banks—Regional
+CMI,Industrials,Specialty Industrial Machinery
+CCBG,Financial Services,Banks—Regional
+GLW,Technology,Electronic Components
+RMAX,Real Estate,Real Estate Services
+UBSI,Financial Services,Banks—Regional
+AVPT,Technology,Software—Infrastructure
+PCG,Utilities,Utilities—Regulated Electric
+GPMT,Real Estate,REIT—Mortgage
+DHC,Real Estate,REIT—Healthcare Facilities
+PEG,Utilities,Utilities—Regulated Electric
+AXNX,Healthcare,Medical Devices
+ALT,Healthcare,Biotechnology
+PGNY,Healthcare,Health Information Services
+ASO,Consumer Cyclical,Specialty Retail
+INCY,Healthcare,Biotechnology
+BFS,Real Estate,REIT—Retail
+KIND,Communication Services,Internet Content & Information
+CPT,Real Estate,REIT—Residential
+SBUX,Consumer Cyclical,Restaurants
+WSR,Real Estate,REIT—Retail
+SKY,Consumer Cyclical,Residential Construction
+ESQ,Financial Services,Banks—Regional
+APA,Energy,Oil & Gas E&P
+HRI,Industrials,Rental & Leasing Services
+LYTS,Technology,Electronic Components
+KAR,Consumer Cyclical,Auto & Truck Dealerships
+LYV,Communication Services,Entertainment
+CHEF,Consumer Defensive,Food Distribution
+QCOM,Technology,Semiconductors
+NTST,Real Estate,REIT—Retail
+MATW,Industrials,Conglomerates
+AEL,Other,Other
+BHR,Real Estate,REIT—Hotel & Motel
+ALL,Financial Services,Insurance—Property & Casualty
+STRO,Healthcare,Biotechnology
+DGII,Technology,Communication Equipment
+OIS,Energy,Oil & Gas Equipment & Services
+RYI,Industrials,Metal Fabrication
+SLRN,Healthcare,Biotechnology
+TAST,Other,Other
+FDP,Consumer Defensive,Farm Products
+HQI,Industrials,Staffing & Employment Services
+CECO,Industrials,Pollution & Treatment Controls
+NVRI,Industrials,Waste Management
+PJT,Financial Services,Capital Markets
+KELYA,Industrials,Staffing & Employment Services
+CRVL,Financial Services,Insurance Brokers
+BANC,Financial Services,Banks—Regional
+CTAS,Industrials,Specialty Business Services
+JBL,Technology,Electronic Components
+SCHL,Communication Services,Publishing
+DXCM,Healthcare,Medical Devices
+KROS,Healthcare,Biotechnology
+WASH,Financial Services,Banks—Regional
+VLTO,Industrials,Pollution & Treatment Controls
+DJCO,Technology,Software—Application
+MCBC,Other,Other
+AEHR,Technology,Semiconductor Equipment & Materials
+HMST,Financial Services,Banks—Regional
+ARE,Real Estate,REIT—Office
+CHTR,Communication Services,Telecom Services
+AIR,Industrials,Aerospace & Defense
+ETN,Industrials,Specialty Industrial Machinery
+PUMP,Energy,Oil & Gas Equipment & Services
+HASI,Real Estate,Real Estate Services
+OMER,Healthcare,Biotechnology
+HON,Industrials,Conglomerates
+ATGE,Consumer Defensive,Education & Training Services
+EFC,Real Estate,REIT—Mortgage
+PTLO,Consumer Cyclical,Restaurants
+ARM,Technology,Semiconductors
+DLTR,Consumer Defensive,Discount Stores
+AFRI,Consumer Defensive,Farm Products
+SDRL,Energy,Oil & Gas Drilling
+BBCP,Industrials,Engineering & Construction
+SM,Energy,Oil & Gas E&P
+TRNS,Industrials,Industrial Distribution
+LIN,Basic Materials,Specialty Chemicals
+NTAP,Technology,Computer Hardware
+AESI,Energy,Oil & Gas Equipment & Services
+SPRY,Healthcare,Biotechnology
+CRSR,Technology,Computer Hardware
+GEV,Utilities,Utilities—Renewable
+RUSHA,Consumer Cyclical,Auto & Truck Dealerships
+INDB,Financial Services,Banks—Regional
+CEIX,Energy,Thermal Coal
+FSS,Industrials,Pollution & Treatment Controls
+LBC,Other,Other
+GBCI,Financial Services,Banks—Regional
+MDLZ,Consumer Defensive,Confectioners
+OFG,Financial Services,Banks—Regional
+RAPT,Healthcare,Biotechnology
+VATE,Industrials,Engineering & Construction
+IRWD,Healthcare,Drug Manufacturers—Specialty & Generic
+SPOK,Healthcare,Health Information Services
+CIO,Real Estate,REIT—Office
+GEN,Technology,Software—Infrastructure
+CSGP,Real Estate,Real Estate Services
+ROL,Consumer Cyclical,Personal Services
+TRGP,Energy,Oil & Gas Midstream
+TRS,Consumer Cyclical,Packaging & Containers
+CEG,Utilities,Utilities—Renewable
+GFF,Industrials,Conglomerates
+HIMS,Consumer Defensive,Household & Personal Products
+ODFL,Industrials,Trucking
+PGEN,Healthcare,Biotechnology
+SCVL,Consumer Cyclical,Apparel Retail
+ANGO,Healthcare,Medical Instruments & Supplies
+UAL,Industrials,Airlines
+SLCA,Other,Other
+CBZ,Industrials,Specialty Business Services
+KREF,Real Estate,REIT—Mortgage
+NOVT,Technology,Scientific & Technical Instruments
+PRU,Financial Services,Insurance—Life
+MCHP,Technology,Semiconductors
+SKWD,Financial Services,Insurance—Property & Casualty
+SJM,Consumer Defensive,Packaged Foods
+INTU,Technology,Software—Application
+CEVA,Technology,Semiconductors
+LAZR,Consumer Cyclical,Auto Parts
+KTOS,Industrials,Aerospace & Defense
+PLPC,Industrials,Electrical Equipment & Parts
+VZIO,Technology,Consumer Electronics
+ENPH,Technology,Solar
+WW,Consumer Cyclical,Personal Services
+AEIS,Industrials,Electrical Equipment & Parts
+WRLD,Financial Services,Credit Services
+CENTA,Consumer Defensive,Packaged Foods
+ALXO,Healthcare,Biotechnology
+BFST,Financial Services,Banks—Regional
+BXC,Industrials,Industrial Distribution
+TELA,Healthcare,Medical Devices
+MYGN,Healthcare,Diagnostics & Research
+REPX,Energy,Oil & Gas E&P
+CRWD,Technology,Software—Infrastructure
+STEL,Financial Services,Banks—Regional
+BHIL,Basic Materials,Agricultural Inputs
+DHT,Energy,Oil & Gas Midstream
+NKE,Consumer Cyclical,Footwear & Accessories
+DCO,Industrials,Aerospace & Defense
+NI,Utilities,Utilities—Regulated Gas
+CVLG,Industrials,Trucking
+BOOM,Industrials,Conglomerates
+PSFE,Technology,Software—Infrastructure
+SFNC,Financial Services,Banks—Regional
+ASB,Financial Services,Banks—Regional
+CYRX,Industrials,Integrated Freight & Logistics
+DHI,Consumer Cyclical,Residential Construction
+NABL,Technology,Information Technology Services
+ATOM,Technology,Semiconductor Equipment & Materials
+GM,Consumer Cyclical,Auto Manufacturers
+MQ,Technology,Software—Infrastructure
+VAL,Energy,Oil & Gas Equipment & Services
+DBRG,Real Estate,Real Estate Services
+SMBC,Financial Services,Banks—Regional
+SYNA,Technology,Semiconductors
+FWRD,Industrials,Integrated Freight & Logistics
+SAMG,Financial Services,Asset Management
+FAST,Industrials,Industrial Distribution
+OSCR,Healthcare,Healthcare Plans
+BF-B,Consumer Defensive,Beverages—Wineries & Distilleries
+ENVX,Industrials,Electrical Equipment & Parts
+UVE,Financial Services,Insurance—Property & Casualty
+HLIT,Technology,Communication Equipment
+IEX,Industrials,Specialty Industrial Machinery
+TYL,Technology,Software—Application
+FITB,Financial Services,Banks—Regional
+EHTH,Financial Services,Insurance Brokers
+ABT,Healthcare,Medical Devices
+CMPX,Healthcare,Biotechnology
+RJF,Financial Services,Asset Management
+GIC,Industrials,Industrial Distribution
+NRIX,Healthcare,Biotechnology
+LNT,Utilities,Utilities—Regulated Electric
+BEAM,Healthcare,Biotechnology
+SMRT,Technology,Software—Application
+KNSA,Healthcare,Drug Manufacturers—Specialty & Generic
+NWN,Utilities,Utilities—Regulated Gas
+ACRV,Healthcare,Biotechnology
+GRWG,Consumer Cyclical,Specialty Retail
+HCC,Basic Materials,Coking Coal
+CYH,Healthcare,Medical Care Facilities
+DNMR,Basic Materials,Specialty Chemicals
+UVSP,Financial Services,Banks—Regional
+LINC,Consumer Defensive,Education & Training Services
+DDOG,Technology,Software—Application
+GPRO,Technology,Consumer Electronics
+CSTL,Healthcare,Diagnostics & Research
+SKYX,Industrials,Electrical Equipment & Parts
+JXN,Financial Services,Insurance—Life
+HTBI,Financial Services,Banks—Regional
+PAYC,Technology,Software—Application
+UMBF,Financial Services,Banks—Regional
+KLTR,Technology,Software—Application
+ACET,Healthcare,Biotechnology
+EFSC,Financial Services,Banks—Regional
+ACHR,Industrials,Aerospace & Defense
+UIS,Technology,Information Technology Services
+PR,Energy,Oil & Gas E&P
+IVZ,Financial Services,Asset Management
+FTV,Technology,Scientific & Technical Instruments
+FFWM,Financial Services,Banks—Regional
+BKD,Healthcare,Medical Care Facilities
+ANDE,Consumer Defensive,Food Distribution
+PRFT,Technology,Information Technology Services
+MUR,Energy,Oil & Gas E&P
+MOH,Healthcare,Healthcare Plans
+AGX,Industrials,Engineering & Construction
+HPP,Real Estate,REIT—Office
+PDFS,Technology,Software—Application
+USB,Financial Services,Banks—Regional
+ARCH,Basic Materials,Coking Coal
+WM,Industrials,Waste Management
+DECK,Consumer Cyclical,Footwear & Accessories
+OFIX,Healthcare,Medical Devices
+BLX,Financial Services,Banks—Regional
+F,Consumer Cyclical,Auto Manufacturers
+WIRE,Other,Other
+ADRO,Other,Other
+ATEX,Communication Services,Telecom Services
+MCB,Financial Services,Banks—Regional
+GNK,Industrials,Marine Shipping
+KMT,Industrials,Tools & Accessories
+OBIO,Healthcare,Biotechnology
+USCB,Financial Services,Banks—Regional
+CARM,Healthcare,Biotechnology
+SD,Energy,Oil & Gas E&P
+LANC,Consumer Defensive,Packaged Foods
+EFX,Industrials,Consulting Services
+AADI,Healthcare,Biotechnology
+BMEA,Healthcare,Biotechnology
+BANF,Financial Services,Banks—Regional
+NYMT,Real Estate,REIT—Mortgage
+MRSN,Healthcare,Biotechnology
+SHO,Real Estate,REIT—Hotel & Motel
+HY,Industrials,Farm & Heavy Construction Machinery
+BSVN,Financial Services,Banks—Regional
+OMCL,Healthcare,Health Information Services
+ETD,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+DMRC,Technology,Information Technology Services
+RXO,Industrials,Trucking
+ADSK,Technology,Software—Application
+BWFG,Financial Services,Banks—Regional
+KFRC,Industrials,Staffing & Employment Services
+WT,Financial Services,Asset Management
+DRS,Industrials,Aerospace & Defense
+LLY,Healthcare,Drug Manufacturers—General
+NDSN,Industrials,Specialty Industrial Machinery
+CBAN,Financial Services,Banks—Regional
+POWI,Technology,Semiconductors
+ROST,Consumer Cyclical,Apparel Retail
+KMB,Consumer Defensive,Household & Personal Products
+AAON,Industrials,Building Products & Equipment
+GNRC,Industrials,Specialty Industrial Machinery
+SCSC,Technology,Electronics & Computer Distribution
+PPTA,Basic Materials,Other Precious Metals & Mining
+NJR,Utilities,Utilities—Regulated Gas
+IIIV,Technology,Software—Infrastructure
+MGPI,Consumer Defensive,Beverages—Wineries & Distilleries
+GH,Healthcare,Diagnostics & Research
+TH,Industrials,Specialty Business Services
+ACLX,Healthcare,Biotechnology
+NOTE,Technology,Information Technology Services
+EMR,Industrials,Specialty Industrial Machinery
+FPI,Real Estate,REIT—Specialty
+SHW,Basic Materials,Specialty Chemicals
+DUOL,Technology,Software—Application
+RES,Energy,Oil & Gas Equipment & Services
+PLL,Basic Materials,Other Industrial Metals & Mining
+RYZB,Other,Other
+FNKO,Consumer Cyclical,Leisure
+CAC,Financial Services,Banks—Regional
+LGFA,Other,Other
+FBP,Financial Services,Banks—Regional
+RPAY,Technology,Software—Infrastructure
+PWOD,Financial Services,Banks—Regional
+DH,Healthcare,Health Information Services
+TSVT,Healthcare,Biotechnology
+JPM,Financial Services,Banks—Diversified
+VAXX,Healthcare,Biotechnology
+APOG,Industrials,Building Products & Equipment
+UPST,Financial Services,Credit Services
+WISH,Other,Other
+AVD,Basic Materials,Agricultural Inputs
+ADNT,Consumer Cyclical,Auto Parts
+SVRA,Healthcare,Biotechnology
+LAW,Technology,Software—Application
+MODG,Consumer Cyclical,Leisure
+PGRE,Real Estate,REIT—Office
+SAH,Consumer Cyclical,Auto & Truck Dealerships
+STER,Technology,Software—Infrastructure
+VECO,Technology,Semiconductor Equipment & Materials
+FMC,Basic Materials,Agricultural Inputs
+ALNT,Technology,Electronic Components
+RLAY,Healthcare,Biotechnology
+OPRX,Healthcare,Health Information Services
+AAT,Real Estate,REIT—Diversified
+LNN,Industrials,Farm & Heavy Construction Machinery
+CPSI,Other,Other
+BYND,Consumer Defensive,Packaged Foods
+NECB,Financial Services,Banks—Regional
+EGY,Energy,Oil & Gas E&P
+GLNG,Energy,Oil & Gas Midstream
+MMC,Financial Services,Insurance Brokers
+ON,Technology,Semiconductors
+SG,Consumer Cyclical,Restaurants
+HWKN,Basic Materials,Specialty Chemicals
+FRT,Real Estate,REIT—Retail
+OPI,Real Estate,REIT—Office
+DOLE,Consumer Defensive,Farm Products
+TCI,Real Estate,Real Estate Services
+AMCX,Communication Services,Entertainment
+YELP,Communication Services,Internet Content & Information
+AMWL,Healthcare,Health Information Services
+NGM,Other,Other
+EPC,Consumer Defensive,Household & Personal Products
+INSW,Energy,Oil & Gas Midstream
+INOD,Technology,Information Technology Services
+FC,Consumer Defensive,Education & Training Services
+TRVI,Healthcare,Biotechnology
+PRA,Financial Services,Insurance—Property & Casualty
+EVLV,Industrials,Security & Protection Services
+EVBN,Financial Services,Banks—Regional
+ASGN,Technology,Information Technology Services
+EU,Energy,Uranium
+AKYA,Healthcare,Medical Instruments & Supplies
+VBTX,Financial Services,Banks—Regional
+MLYS,Healthcare,Biotechnology
+TWO,Real Estate,REIT—Mortgage
+ME,Healthcare,Diagnostics & Research
+HEES,Industrials,Rental & Leasing Services
+MTD,Healthcare,Diagnostics & Research
+ANF,Consumer Cyclical,Apparel Retail
+ADPT,Healthcare,Biotechnology
+BLK,Financial Services,Asset Management
+DY,Industrials,Engineering & Construction
+INBX,Healthcare,Biotechnology
+LQDT,Consumer Cyclical,Internet Retail
+TTEC,Technology,Information Technology Services
+TCMD,Healthcare,Medical Devices
+VC,Consumer Cyclical,Auto Parts
+DRI,Consumer Cyclical,Restaurants
+EVI,Industrials,Industrial Distribution
+MOD,Consumer Cyclical,Auto Parts
+CLMB,Technology,Electronics & Computer Distribution
+EBTC,Financial Services,Banks—Regional
+CENT,Consumer Defensive,Packaged Foods
+BHRB,Financial Services,Banks—Regional
+ITW,Industrials,Specialty Industrial Machinery
+LCII,Consumer Cyclical,Recreational Vehicles
+COHU,Technology,Semiconductor Equipment & Materials
+GEFB,Other,Other
+VCTR,Financial Services,Asset Management
+BKSY,Technology,Scientific & Technical Instruments
+CIX,Industrials,Security & Protection Services
+TSE,Basic Materials,Specialty Chemicals
+HL,Basic Materials,Other Precious Metals & Mining
+PLTR,Technology,Software—Infrastructure
+SVC,Real Estate,REIT—Hotel & Motel
+DAN,Consumer Cyclical,Auto Parts
+TSBK,Financial Services,Banks—Regional
+ERII,Industrials,Pollution & Treatment Controls
+PNRG,Energy,Oil & Gas E&P
+RSVR,Communication Services,Entertainment
+CSGS,Technology,Software—Infrastructure
+NBTB,Financial Services,Banks—Regional
+IOSP,Basic Materials,Specialty Chemicals
+VIGL,Healthcare,Biotechnology
+CRMT,Consumer Cyclical,Auto & Truck Dealerships
+NGVC,Consumer Defensive,Grocery Stores
+ARLO,Industrials,Building Products & Equipment
+ALTG,Industrials,Rental & Leasing Services
+FRSH,Technology,Software—Application
+CINF,Financial Services,Insurance—Property & Casualty
+RHP,Real Estate,REIT—Hotel & Motel
+NPK,Industrials,Aerospace & Defense
+MTH,Consumer Cyclical,Residential Construction
+BORR,Energy,Oil & Gas Drilling
+IP,Consumer Cyclical,Packaging & Containers
+CATY,Financial Services,Banks—Regional
+OPK,Healthcare,Diagnostics & Research
+ARTNA,Utilities,Utilities—Regulated Water
+CMCO,Industrials,Farm & Heavy Construction Machinery
+FTAI,Industrials,Rental & Leasing Services
+GOCO,Financial Services,Insurance Brokers
+AFL,Financial Services,Insurance—Life
+OII,Energy,Oil & Gas Equipment & Services
+SXC,Basic Materials,Coking Coal
+DNLI,Healthcare,Biotechnology
+COGT,Healthcare,Biotechnology
+GFS,Technology,Semiconductors
+BBSI,Industrials,Staffing & Employment Services
+DGICA,Financial Services,Insurance—Property & Casualty
+COFS,Financial Services,Banks—Regional
+UHT,Real Estate,REIT—Healthcare Facilities
+WS,Basic Materials,Steel
+CTRA,Energy,Oil & Gas E&P
+SWKH,Financial Services,Asset Management
+KDP,Consumer Defensive,Beverages—Non-Alcoholic
+SSP,Communication Services,Broadcasting
+FVCB,Financial Services,Banks—Regional
+KIM,Real Estate,REIT—Retail
+BUSE,Financial Services,Banks—Regional
+DASH,Communication Services,Internet Content & Information
+BMBL,Technology,Software—Application
+TEX,Industrials,Farm & Heavy Construction Machinery
+TNK,Energy,Oil & Gas Midstream
+CMBM,Technology,Communication Equipment
+PINE,Real Estate,REIT—Retail
+KGS,Energy,Oil & Gas Equipment & Services
+RVTY,Healthcare,Diagnostics & Research
+GLRE,Financial Services,Insurance—Reinsurance
+VPG,Technology,Scientific & Technical Instruments
+AMPS,Utilities,Utilities—Renewable
+PDSB,Healthcare,Biotechnology
+RIOT,Financial Services,Capital Markets
+PDLB,Financial Services,Banks—Regional
+PRCT,Healthcare,Medical Devices
+TCBK,Financial Services,Banks—Regional
+BEN,Financial Services,Asset Management
+SKYT,Technology,Semiconductors
+CARS,Consumer Cyclical,Auto & Truck Dealerships
+EYE,Consumer Cyclical,Specialty Retail
+NWBI,Financial Services,Banks—Regional
+AGIO,Healthcare,Biotechnology
+STRL,Industrials,Engineering & Construction
+MASS,Healthcare,Medical Devices
+WALD,Consumer Defensive,Household & Personal Products
+LPG,Energy,Oil & Gas Midstream
+TMDX,Healthcare,Medical Devices
+HIG,Financial Services,Insurance—Property & Casualty
+PACK,Consumer Cyclical,Packaging & Containers
+XPOF,Consumer Cyclical,Leisure
+SLB,Energy,Oil & Gas Equipment & Services
+ENSG,Healthcare,Medical Care Facilities
+MFA,Real Estate,REIT—Mortgage
+BAC,Financial Services,Banks—Diversified
+EGBN,Financial Services,Banks—Regional
+AVNW,Technology,Communication Equipment
+STGW,Communication Services,Advertising Agencies
+BCOV,Technology,Software—Application
+CRCT,Technology,Computer Hardware
+BMRC,Financial Services,Banks—Regional
+CRAI,Industrials,Consulting Services
+ESSA,Financial Services,Banks—Regional
+BXMT,Real Estate,REIT—Mortgage
+INN,Real Estate,REIT—Hotel & Motel
+MCFT,Consumer Cyclical,Recreational Vehicles
+DDD,Technology,Computer Hardware
+MAX,Communication Services,Internet Content & Information
+ALTI,Financial Services,Asset Management
+MSI,Technology,Communication Equipment
+CMAX,Healthcare,Health Information Services
+ARWR,Healthcare,Biotechnology
+MCS,Communication Services,Entertainment
+NDAQ,Financial Services,Financial Data & Stock Exchanges
+TECH,Healthcare,Biotechnology
+ATNM,Healthcare,Biotechnology
+AKRO,Healthcare,Biotechnology
+PKE,Industrials,Aerospace & Defense
+TPB,Consumer Defensive,Tobacco
+FIBK,Financial Services,Banks—Regional
+ERAS,Healthcare,Biotechnology
+XPER,Technology,Software—Application
+MAS,Industrials,Building Products & Equipment
+NAVI,Financial Services,Credit Services
+REVG,Industrials,Farm & Heavy Construction Machinery
+SRI,Consumer Cyclical,Auto Parts
+CIFR,Financial Services,Capital Markets
+HI,Industrials,Specialty Industrial Machinery
+JBSS,Consumer Defensive,Packaged Foods
+LBRT,Energy,Oil & Gas Equipment & Services
+SCLX,Healthcare,Drug Manufacturers—General
+CRS,Industrials,Metal Fabrication
+WVE,Healthcare,Biotechnology
+EVRG,Utilities,Utilities—Regulated Electric
+AEO,Consumer Cyclical,Apparel Retail
+ELF,Consumer Defensive,Household & Personal Products
+ROK,Industrials,Specialty Industrial Machinery
+SHAK,Consumer Cyclical,Restaurants
+EYEN,Healthcare,Biotechnology
+GRBK,Consumer Cyclical,Residential Construction
+WLFC,Industrials,Rental & Leasing Services
+BLNK,Industrials,Engineering & Construction
+CASH,Financial Services,Banks—Regional
+TCX,Technology,Software—Infrastructure
+TNGX,Healthcare,Biotechnology
+RAMP,Technology,Software—Infrastructure
+OMGA,Healthcare,Biotechnology
+LIVN,Healthcare,Medical Devices
+THS,Consumer Defensive,Packaged Foods
+HONE,Financial Services,Banks—Regional
+UNFI,Consumer Defensive,Food Distribution
+GOLF,Consumer Cyclical,Leisure
+BCO,Industrials,Security & Protection Services
+NTCT,Technology,Software—Infrastructure
+PD,Technology,Software—Application
+PECO,Real Estate,REIT—Retail
+FET,Energy,Oil & Gas Equipment & Services
+NUE,Basic Materials,Steel
+PLCE,Consumer Cyclical,Apparel Manufacturing
+CB,Financial Services,Insurance—Property & Casualty
+CCOI,Communication Services,Telecom Services
+NSIT,Technology,Electronics & Computer Distribution
+WOR,Industrials,Metal Fabrication
+AROW,Financial Services,Banks—Regional
+AVB,Real Estate,REIT—Residential
+PAHC,Healthcare,Drug Manufacturers—Specialty & Generic
+GLT,Basic Materials,Paper & Paper Products
+UPBD,Technology,Software—Application
+DUK,Utilities,Utilities—Regulated Electric
+BATRK,Communication Services,Entertainment
+PX,Financial Services,Asset Management
+UTI,Consumer Defensive,Education & Training Services
+SNA,Industrials,Tools & Accessories
+NUS,Consumer Defensive,Household & Personal Products
+LUNA,Technology,Scientific & Technical Instruments
+THFF,Financial Services,Banks—Regional
+TELL,Energy,Oil & Gas E&P
+FLWS,Consumer Cyclical,Specialty Retail
+GL,Financial Services,Insurance—Life
+BCBP,Financial Services,Banks—Regional
+USPH,Healthcare,Medical Care Facilities
+LE,Consumer Cyclical,Apparel Retail
+MELI,Consumer Cyclical,Internet Retail
+EBS,Healthcare,Drug Manufacturers—Specialty & Generic
+CLNE,Energy,Oil & Gas Refining & Marketing
+BBUC,Financial Services,Asset Management
+ATO,Utilities,Utilities—Regulated Gas
+CUE,Healthcare,Biotechnology
+FLNG,Energy,Oil & Gas Midstream
+NRC,Healthcare,Health Information Services
+RGCO,Utilities,Utilities—Regulated Gas
+UNF,Industrials,Specialty Business Services
+XRX,Technology,Information Technology Services
+RDW,Industrials,Aerospace & Defense
+ICE,Financial Services,Financial Data & Stock Exchanges
+ACEL,Consumer Cyclical,Gambling
+INSM,Healthcare,Biotechnology
+IMAX,Communication Services,Entertainment
+FMAO,Financial Services,Banks—Regional
+CLX,Consumer Defensive,Household & Personal Products
+TRNO,Real Estate,REIT—Industrial
+NN,Technology,Software—Infrastructure
+SGH,Technology,Semiconductors
+EP,Energy,Oil & Gas E&P
+WTW,Financial Services,Insurance Brokers
+ATSG,Industrials,Airlines
+COMP,Real Estate,Real Estate Services
+ARQT,Healthcare,Biotechnology
+SONO,Technology,Consumer Electronics
+VMC,Basic Materials,Building Materials
+DLR,Real Estate,REIT—Specialty
+LMT,Industrials,Aerospace & Defense
+ALIT,Technology,Software—Application
+LQDA,Healthcare,Biotechnology
+ALEX,Real Estate,REIT—Retail
+ALHC,Healthcare,Healthcare Plans
+AMRC,Industrials,Engineering & Construction
+AGYS,Technology,Software—Application
+GERN,Healthcare,Biotechnology
+HCAT,Healthcare,Health Information Services
+MOGA,Other,Other
+CUTR,Healthcare,Medical Devices
+HIPO,Financial Services,Insurance—Specialty
+REX,Basic Materials,Chemicals
+TWI,Industrials,Farm & Heavy Construction Machinery
+BALY,Consumer Cyclical,Resorts & Casinos
+EVCM,Technology,Software—Infrastructure
+LFST,Healthcare,Medical Care Facilities
+NOC,Industrials,Aerospace & Defense
+HFWA,Financial Services,Banks—Regional
+SPTN,Consumer Defensive,Food Distribution
+ASIX,Basic Materials,Chemicals
+NEXT,Energy,Oil & Gas E&P
+ALDX,Healthcare,Biotechnology
+K,Consumer Defensive,Packaged Foods
+MTCH,Communication Services,Internet Content & Information
+FDX,Industrials,Integrated Freight & Logistics
+FIX,Industrials,Engineering & Construction
+CAKE,Consumer Cyclical,Restaurants
+LMB,Industrials,Building Products & Equipment
+OVLY,Financial Services,Banks—Regional
+CSWI,Industrials,Specialty Industrial Machinery
+CWH,Consumer Cyclical,Auto & Truck Dealerships
+MDXG,Healthcare,Biotechnology
+MLR,Consumer Cyclical,Auto Parts
+VRTX,Healthcare,Biotechnology
+ARDX,Healthcare,Biotechnology
+FOSL,Consumer Cyclical,Footwear & Accessories
+GIII,Consumer Cyclical,Apparel Manufacturing
+AMPL,Technology,Software—Application
+ARIS,Utilities,Utilities—Regulated Water
+YUM,Consumer Cyclical,Restaurants
+CMRE,Industrials,Marine Shipping
+TDUP,Consumer Cyclical,Internet Retail
+AX,Financial Services,Banks—Regional
+PDD,Consumer Cyclical,Internet Retail
+SCPH,Healthcare,Biotechnology
+DDS,Consumer Cyclical,Department Stores
+SKT,Real Estate,REIT—Retail
+REZI,Industrials,Industrial Distribution
+EOLS,Healthcare,Drug Manufacturers—Specialty & Generic
+IVR,Real Estate,REIT—Mortgage
+ARR,Real Estate,REIT—Mortgage
+NBN,Financial Services,Banks—Regional
+PHAT,Healthcare,Biotechnology
+CBRE,Real Estate,Real Estate Services
+OSBC,Financial Services,Banks—Regional
+IDYA,Healthcare,Biotechnology
+TGT,Consumer Defensive,Discount Stores
+KRT,Consumer Cyclical,Packaging & Containers
+FG,Financial Services,Insurance—Life
+FELE,Industrials,Specialty Industrial Machinery
+GD,Industrials,Aerospace & Defense
+CBRL,Consumer Cyclical,Restaurants
+VTYX,Healthcare,Biotechnology
+PL,Industrials,Aerospace & Defense
+GCBC,Financial Services,Banks—Regional
+DFIN,Technology,Software—Application
+DEI,Real Estate,REIT—Office
+IFF,Basic Materials,Specialty Chemicals
+HAL,Energy,Oil & Gas Equipment & Services
+ZBH,Healthcare,Medical Devices
+OSW,Consumer Cyclical,Leisure
+EVBG,Other,Other
+ABUS,Healthcare,Biotechnology
+DE,Industrials,Farm & Heavy Construction Machinery
+FBK,Financial Services,Banks—Regional
+PCVX,Healthcare,Biotechnology
+PEBO,Financial Services,Banks—Regional
+NRIM,Financial Services,Banks—Regional
+PNM,Other,Other
+NGVT,Basic Materials,Specialty Chemicals
+SEER,Healthcare,Biotechnology
+EVC,Communication Services,Advertising Agencies
+O,Real Estate,REIT—Retail
+LMAT,Healthcare,Medical Instruments & Supplies
+BLFS,Healthcare,Medical Instruments & Supplies
+QIPT,Healthcare,Medical Devices
+PIII,Healthcare,Medical Care Facilities
+CLAR,Consumer Cyclical,Leisure
+HBCP,Financial Services,Banks—Regional
+AXGN,Healthcare,Medical Devices
+MXL,Technology,Semiconductors
+SLAB,Technology,Semiconductors
+WLLBW,Energy,Oil & Gas E&P
+ORC,Real Estate,REIT—Mortgage
+ACCD,Healthcare,Health Information Services
+AKTS,Technology,Communication Equipment
+JJSF,Consumer Defensive,Packaged Foods
+SITM,Technology,Semiconductors
+CMPR,Industrials,Specialty Business Services
+BE,Industrials,Electrical Equipment & Parts
+IBCP,Financial Services,Banks—Regional
+GLDD,Industrials,Engineering & Construction
+ORLY,Consumer Cyclical,Specialty Retail
+BANR,Financial Services,Banks—Regional
+DHX,Technology,Software—Application
+SDGR,Healthcare,Health Information Services
+JOBY,Industrials,Airports & Air Services
+TXT,Industrials,Aerospace & Defense
+APPF,Technology,Software—Application
+BFC,Financial Services,Banks—Regional
+CARG,Consumer Cyclical,Auto & Truck Dealerships
+CADE,Financial Services,Banks—Regional
+PLOW,Consumer Cyclical,Auto Parts
+CME,Financial Services,Financial Data & Stock Exchanges
+CMP,Basic Materials,Other Industrial Metals & Mining
+LADR,Real Estate,REIT—Mortgage
+CTSH,Technology,Information Technology Services
+UMH,Real Estate,REIT—Residential
+GOGO,Communication Services,Telecom Services
+STE,Healthcare,Medical Devices
+PRAA,Financial Services,Credit Services
+KOS,Energy,Oil & Gas E&P
+NNOX,Healthcare,Medical Devices
+MAR,Consumer Cyclical,Lodging
+PARA,Communication Services,Entertainment
+KRNY,Financial Services,Banks—Regional
+CWST,Industrials,Waste Management
+CZFS,Financial Services,Banks—Regional
+C,Financial Services,Banks—Diversified
+CALX,Technology,Software—Infrastructure
+AWK,Utilities,Utilities—Regulated Water
+ALE,Utilities,Utilities—Diversified
+TTD,Technology,Software—Application
+HBI,Consumer Cyclical,Apparel Manufacturing
+SPT,Technology,Software—Application
+BLKB,Technology,Software—Application
+CDZI,Utilities,Utilities—Regulated Water
+PGC,Financial Services,Banks—Regional
+BRO,Financial Services,Insurance Brokers
+AMRK,Financial Services,Capital Markets
+TILE,Industrials,Building Products & Equipment
+UONE,Communication Services,Broadcasting
+HST,Real Estate,REIT—Hotel & Motel
+ZVIA,Consumer Defensive,Beverages—Non-Alcoholic
+DOC,Real Estate,REIT—Healthcare Facilities
+D,Utilities,Utilities—Regulated Electric
+CHMG,Financial Services,Banks—Regional
+EMN,Basic Materials,Specialty Chemicals
+THR,Industrials,Specialty Industrial Machinery
+OCUL,Healthcare,Biotechnology
+DTC,Consumer Cyclical,Internet Retail
+AMRX,Healthcare,Drug Manufacturers—Specialty & Generic
+MS,Financial Services,Capital Markets
+JOUT,Consumer Cyclical,Leisure
+INTC,Technology,Semiconductors
+OSPN,Technology,Software—Infrastructure
+IDCC,Technology,Software—Application
+PSA,Real Estate,REIT—Industrial
+NIC,Financial Services,Banks—Regional
+RNA,Healthcare,Biotechnology
+PLUS,Technology,Software—Application
+CASS,Industrials,Specialty Business Services
+BRY,Energy,Oil & Gas E&P
+CVS,Healthcare,Healthcare Plans
+PFG,Financial Services,Asset Management
+KRO,Basic Materials,Specialty Chemicals
+HSIC,Healthcare,Medical Distribution
+WST,Healthcare,Medical Instruments & Supplies
+APPS,Technology,Software—Application
+RTX,Industrials,Aerospace & Defense
+EXPO,Industrials,Engineering & Construction
+NWE,Utilities,Utilities—Regulated Electric
+A,Healthcare,Diagnostics & Research
+IAUX,Basic Materials,Gold
+DHR,Healthcare,Diagnostics & Research
+ZUMZ,Consumer Cyclical,Apparel Retail
+GNE,Utilities,Utilities—Regulated Electric
+ANSS,Technology,Software—Application
+IVT,Real Estate,REIT—Retail
+ALRM,Technology,Software—Application
+CHRS,Healthcare,Biotechnology
+FFIV,Technology,Software—Infrastructure
+MTX,Basic Materials,Specialty Chemicals
+EB,Technology,Software—Application
+ILMN,Healthcare,Diagnostics & Research
+MSCI,Financial Services,Financial Data & Stock Exchanges
+XFOR,Healthcare,Biotechnology
+AHCO,Healthcare,Medical Devices
+BKKT,Technology,Software—Infrastructure
+TALO,Energy,Oil & Gas E&P
+BWA,Consumer Cyclical,Auto Parts
+LW,Consumer Defensive,Packaged Foods
+IBP,Consumer Cyclical,Residential Construction
+BG,Consumer Defensive,Farm Products
+STAA,Healthcare,Medical Instruments & Supplies
+ACAD,Healthcare,Biotechnology
+CCNE,Financial Services,Banks—Regional
+JNPR,Technology,Communication Equipment
+ANET,Technology,Computer Hardware
+CPE,Other,Other
+FCX,Basic Materials,Copper
+INGN,Healthcare,Medical Devices
+EOG,Energy,Oil & Gas E&P
+GPI,Consumer Cyclical,Auto & Truck Dealerships
+T,Communication Services,Telecom Services
+MSTR,Technology,Software—Application
+EXFY,Technology,Software—Application
+SFST,Financial Services,Banks—Regional
+UFPI,Basic Materials,Lumber & Wood Production
+LBAI,Financial Services,Banks—Regional
+GIS,Consumer Defensive,Packaged Foods
+CBL,Real Estate,REIT—Retail
+PTSI,Industrials,Trucking
+VRE,Real Estate,REIT—Residential
+FISI,Financial Services,Banks—Regional
+POWW,Industrials,Aerospace & Defense
+STR,Energy,Oil & Gas E&P
+AMTM,Industrials,Specialty Business Services
+OTLK,Healthcare,Biotechnology
+CPB,Consumer Defensive,Packaged Foods
+XAIR,Healthcare,Medical Devices
+BBY,Consumer Cyclical,Specialty Retail
+ACGL,Financial Services,Insurance—Diversified
+MOS,Basic Materials,Agricultural Inputs
+DLTH,Consumer Cyclical,Apparel Retail
+SPGI,Financial Services,Financial Data & Stock Exchanges
+TRMB,Technology,Scientific & Technical Instruments
+CHRD,Energy,Oil & Gas E&P
+HBIO,Healthcare,Medical Instruments & Supplies
+MDC,Other,Other
+KALV,Healthcare,Biotechnology
+AVAV,Industrials,Aerospace & Defense
+XOMA,Healthcare,Biotechnology
+REI,Energy,Oil & Gas E&P
+QTWO,Technology,Software—Application
+ARL,Real Estate,Real Estate Services
+LNTH,Healthcare,Drug Manufacturers—Specialty & Generic
+APD,Basic Materials,Specialty Chemicals
+CDW,Technology,Information Technology Services
+SBOW,Other,Other
+TSLA,Consumer Cyclical,Auto Manufacturers
+WTTR,Energy,Oil & Gas Equipment & Services
+TGH,Other,Other
+CYTK,Healthcare,Biotechnology
+ORCL,Technology,Software—Infrastructure
+PKBK,Financial Services,Banks—Regional
+MURA,Healthcare,Biotechnology
+NR,Energy,Oil & Gas Equipment & Services
+WEC,Utilities,Utilities—Regulated Electric
+NKSH,Financial Services,Banks—Regional
+VLGEA,Consumer Defensive,Grocery Stores
+CHUY,Consumer Cyclical,Restaurants
+ASAN,Technology,Software—Application
+KFY,Industrials,Staffing & Employment Services
+ACTG,Industrials,Business Equipment & Supplies
+GLUE,Healthcare,Biotechnology
+PRMW,Consumer Defensive,Beverages—Non-Alcoholic
+VNDA,Healthcare,Biotechnology
+GRNT,Energy,Oil & Gas E&P
+BWMN,Industrials,Engineering & Construction
+GKOS,Healthcare,Medical Devices
+CVI,Energy,Oil & Gas Refining & Marketing
+DRQ,Energy,Oil & Gas Equipment & Services
+LUMN,Communication Services,Telecom Services
+TER,Technology,Semiconductor Equipment & Materials
+AGEN,Healthcare,Biotechnology
+ASUR,Technology,Software—Application
+BRKL,Financial Services,Banks—Regional
+PUBM,Technology,Software—Application
+INTT,Technology,Semiconductor Equipment & Materials
+ALGN,Healthcare,Medical Instruments & Supplies
+AMGN,Healthcare,Drug Manufacturers—General
+DOCN,Technology,Software—Infrastructure
+ITCI,Healthcare,Drug Manufacturers—Specialty & Generic
+GES,Consumer Cyclical,Apparel Retail
+XOM,Energy,Oil & Gas Integrated
+CAL,Consumer Cyclical,Apparel Retail
+BY,Financial Services,Banks—Regional
+YMAB,Healthcare,Biotechnology
+CTS,Technology,Electronic Components
+ICFI,Industrials,Consulting Services
+STRS,Real Estate,Real Estate—Diversified
+JOE,Real Estate,Real Estate—Diversified
+EXPE,Consumer Cyclical,Travel Services
+ODC,Basic Materials,Specialty Chemicals
+JBHT,Industrials,Integrated Freight & Logistics
+CHGG,Consumer Defensive,Education & Training Services
+CATO,Consumer Cyclical,Apparel Retail
+OBT,Financial Services,Banks—Regional
+SPNS,Technology,Software—Application
+PRTH,Technology,Software—Infrastructure
+FMNB,Financial Services,Banks—Regional
+LH,Healthcare,Diagnostics & Research
+CNTY,Consumer Cyclical,Resorts & Casinos
+FSBC,Financial Services,Banks—Regional
+SMMT,Healthcare,Biotechnology
+AMK,Financial Services,Asset Management
+KE,Industrials,Electrical Equipment & Parts
+CWK,Real Estate,Real Estate Services
+HES,Energy,Oil & Gas E&P
+WTI,Energy,Oil & Gas E&P
+PSMT,Consumer Defensive,Discount Stores
+ROCK,Industrials,Building Products & Equipment
+ROP,Technology,Software—Application
+ED,Utilities,Utilities—Regulated Electric
+VTOL,Energy,Oil & Gas Equipment & Services
+TK,Energy,Oil & Gas Midstream
+WRBY,Healthcare,Medical Instruments & Supplies
+USLM,Basic Materials,Building Materials
+VVX,Industrials,Aerospace & Defense
+AMCR,Consumer Cyclical,Packaging & Containers
+CLFD,Technology,Communication Equipment
+SSD,Basic Materials,Lumber & Wood Production
+PARR,Energy,Oil & Gas Refining & Marketing
+FCCO,Financial Services,Banks—Regional
+SPWH,Consumer Cyclical,Specialty Retail
+BLDE,Industrials,Airports & Air Services
+MTRN,Basic Materials,Other Industrial Metals & Mining
+ALTM,Basic Materials,Specialty Chemicals
+PWSC,Technology,Software—Application
+IRMD,Healthcare,Medical Devices
+TLYS,Consumer Cyclical,Apparel Retail
+GTN,Communication Services,Broadcasting
+PRME,Healthcare,Biotechnology
+LOCO,Consumer Cyclical,Restaurants
+SSTK,Communication Services,Internet Content & Information
+COOK,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+HNRG,Energy,Thermal Coal
+BCAB,Healthcare,Biotechnology
+MBI,Financial Services,Insurance—Specialty
+NXPI,Technology,Semiconductors
+NKTX,Healthcare,Biotechnology
+RLYB,Healthcare,Biotechnology
+SST,Industrials,Specialty Business Services
+ZD,Communication Services,Advertising Agencies
+CHRW,Industrials,Integrated Freight & Logistics
+APTV,Consumer Cyclical,Auto Parts
+CBAY,Other,Other
+JYNT,Healthcare,Medical Care Facilities
+SNDX,Healthcare,Biotechnology
+XYL,Industrials,Specialty Industrial Machinery
+TMUS,Communication Services,Telecom Services
+AVNS,Healthcare,Medical Devices
+OTTR,Utilities,Utilities—Diversified
+ODP,Consumer Cyclical,Specialty Retail
+MXCT,Healthcare,Medical Devices
+PKST,Real Estate,REIT—Office
+SANA,Healthcare,Biotechnology
+STEP,Financial Services,Asset Management
+KRG,Real Estate,REIT—Retail
+PANL,Industrials,Marine Shipping
+LXU,Basic Materials,Chemicals
+MLP,Real Estate,Real Estate Services
+HTLF,Financial Services,Banks—Regional
+CBOE,Financial Services,Financial Data & Stock Exchanges
+JBLU,Industrials,Airlines
+TMO,Healthcare,Diagnostics & Research
+IPSC,Healthcare,Biotechnology
+CLPT,Healthcare,Medical Devices
+AROC,Energy,Oil & Gas Equipment & Services
+MGY,Energy,Oil & Gas E&P
+AMSF,Financial Services,Insurance—Specialty
+CE,Basic Materials,Chemicals
+MMSI,Healthcare,Medical Instruments & Supplies
+ALPN,Other,Other
+STNE,Technology,Software—Infrastructure
+BW,Industrials,Specialty Industrial Machinery
+OMC,Communication Services,Advertising Agencies
+CDNA,Healthcare,Diagnostics & Research
+GEF,Consumer Cyclical,Packaging & Containers
+VLO,Energy,Oil & Gas Refining & Marketing
+EGAN,Technology,Software—Application
+EPAC,Industrials,Specialty Industrial Machinery
+CERS,Healthcare,Medical Devices
+LBPH,Healthcare,Biotechnology
+BOC,Industrials,Conglomerates
+HMN,Financial Services,Insurance—Property & Casualty
+JMSB,Financial Services,Banks—Regional
+OGS,Utilities,Utilities—Regulated Gas
+NVDA,Technology,Semiconductors
+MEI,Technology,Electronic Components
+NBR,Energy,Oil & Gas Drilling
+WEYS,Consumer Cyclical,Footwear & Accessories
+UNIT,Real Estate,REIT—Specialty
+WAB,Industrials,Railroads
+RRR,Consumer Cyclical,Resorts & Casinos
+HPQ,Technology,Computer Hardware
+UNP,Industrials,Railroads
+EOSE,Industrials,Electrical Equipment & Parts
+LZB,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+REPL,Healthcare,Biotechnology
+SILK,Healthcare,Medical Devices
+PEB,Real Estate,REIT—Hotel & Motel
+LUV,Industrials,Airlines
+CMPO,Industrials,Metal Fabrication
+FNLC,Financial Services,Banks—Regional
+EWCZ,Consumer Defensive,Household & Personal Products
+TT,Industrials,Building Products & Equipment
+INNV,Healthcare,Medical Care Facilities
+WD,Financial Services,Mortgage Finance
+AAPL,Technology,Consumer Electronics
+LIND,Consumer Cyclical,Travel Services
+LEN,Consumer Cyclical,Residential Construction
+NOW,Technology,Software—Application
+HNI,Industrials,Business Equipment & Supplies
+MSGE,Consumer Cyclical,Leisure
+RMD,Healthcare,Medical Instruments & Supplies
+IMKTA,Consumer Defensive,Grocery Stores
+HCA,Healthcare,Medical Care Facilities
+BAX,Healthcare,Medical Instruments & Supplies
+PAX,Financial Services,Asset Management
+CLB,Energy,Oil & Gas Equipment & Services
+IMRX,Healthcare,Biotechnology
+ICHR,Technology,Semiconductor Equipment & Materials
+HUM,Healthcare,Healthcare Plans
+IBOC,Financial Services,Banks—Regional
+PNR,Industrials,Specialty Industrial Machinery
+BRZE,Technology,Software—Application
+URBN,Consumer Cyclical,Apparel Retail
+DEA,Real Estate,REIT—Office
+AMBC,Financial Services,Insurance—Specialty
+NWPX,Industrials,Metal Fabrication
+VRCA,Healthcare,Biotechnology
+MLAB,Technology,Scientific & Technical Instruments
+ASPN,Industrials,Building Products & Equipment
+PRGS,Technology,Software—Infrastructure
+ARVN,Healthcare,Biotechnology
+ALG,Industrials,Farm & Heavy Construction Machinery
+SYBT,Financial Services,Banks—Regional
+BKNG,Consumer Cyclical,Travel Services
+LUNG,Healthcare,Medical Devices
+CVRX,Healthcare,Medical Devices
+ETNB,Healthcare,Biotechnology
+LTH,Consumer Cyclical,Leisure
+SUM,Basic Materials,Building Materials
+TTMI,Technology,Electronic Components
+BOH,Financial Services,Banks—Regional
+EIX,Utilities,Utilities—Regulated Electric
+CNSL,Communication Services,Telecom Services
+HLVX,Healthcare,Biotechnology
+BOOT,Consumer Cyclical,Apparel Retail
+FL,Consumer Cyclical,Apparel Retail
+DVA,Healthcare,Medical Care Facilities
+BRSP,Real Estate,REIT—Mortgage
+RC,Real Estate,REIT—Mortgage
+ENS,Industrials,Electrical Equipment & Parts
+WEAV,Healthcare,Health Information Services
+CMC,Basic Materials,Steel
+NSP,Industrials,Staffing & Employment Services
+MCD,Consumer Cyclical,Restaurants
+ALKS,Healthcare,Drug Manufacturers—Specialty & Generic
+AVA,Utilities,Utilities—Diversified
+ALLK,Healthcare,Biotechnology
+FUL,Basic Materials,Specialty Chemicals
+AMKR,Technology,Semiconductor Equipment & Materials
+PMT,Real Estate,REIT—Mortgage
+SANM,Technology,Electronic Components
+CIM,Real Estate,REIT—Mortgage
+OLO,Technology,Software—Application
+IPI,Basic Materials,Agricultural Inputs
+BPMC,Healthcare,Biotechnology
+BLUE,Healthcare,Biotechnology
+PFSI,Financial Services,Mortgage Finance
+TERN,Healthcare,Biotechnology
+SNPO,Other,Other
+HYLN,Consumer Cyclical,Auto Parts
+CVLY,Other,Other
+MBIN,Financial Services,Banks—Regional
+ZIMV,Healthcare,Medical Devices
+CNOB,Financial Services,Banks—Regional
+AGS,Consumer Cyclical,Gambling
+WLLAW,Other,Other
+NRG,Utilities,Utilities—Independent Power Producers
+AEP,Utilities,Utilities—Regulated Electric
+BGXX,Healthcare,Drug Manufacturers—Specialty & Generic
+WRB,Financial Services,Insurance—Property & Casualty
+PBF,Energy,Oil & Gas Refining & Marketing
+DGX,Healthcare,Diagnostics & Research
+FTCI,Technology,Solar
+STHO,Real Estate,Real Estate Services
+FFIN,Financial Services,Banks—Regional
+SOLV,Healthcare,Health Information Services
+BRP,Other,Other
+ICVX,Other,Other
+CNC,Healthcare,Healthcare Plans
+LRMR,Healthcare,Biotechnology
+OUT,Real Estate,REIT—Specialty
+VLY,Financial Services,Banks—Regional
+GBX,Industrials,Railroads
+MNRO,Consumer Cyclical,Auto Parts
+PAYS,Technology,Software—Infrastructure
+VSEC,Industrials,Aerospace & Defense
+HSHP,Industrials,Marine Shipping
+SNFCA,Financial Services,Mortgage Finance
+SBSI,Financial Services,Banks—Regional
+DXLG,Consumer Cyclical,Apparel Retail
+SHLS,Technology,Solar
+SHYF,Industrials,Farm & Heavy Construction Machinery
+SHEN,Communication Services,Telecom Services
+FIHL,Financial Services,Insurance—Diversified
+LAND,Real Estate,REIT—Specialty
+PTC,Technology,Software—Application
+BV,Industrials,Specialty Business Services
+TSN,Consumer Defensive,Farm Products
+AWR,Utilities,Utilities—Regulated Water
+RCUS,Healthcare,Biotechnology
+TMP,Financial Services,Banks—Regional
+CVCO,Consumer Cyclical,Residential Construction
+UFPT,Healthcare,Medical Devices
+PLD,Real Estate,REIT—Industrial
+EXPI,Real Estate,Real Estate Services
+CMTL,Technology,Communication Equipment
+FCFS,Financial Services,Credit Services
+NRDY,Technology,Software—Application
+FMBH,Financial Services,Banks—Regional
+UCTT,Technology,Semiconductor Equipment & Materials
+RM,Financial Services,Credit Services
+AMWD,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+MLI,Industrials,Metal Fabrication
+HBNC,Financial Services,Banks—Regional
+SGHT,Healthcare,Medical Devices
+VERA,Healthcare,Biotechnology
+GE,Industrials,Aerospace & Defense
+EVH,Healthcare,Health Information Services
+ESE,Technology,Scientific & Technical Instruments
+HRTX,Healthcare,Biotechnology
+ALLE,Industrials,Security & Protection Services
+HPE,Technology,Communication Equipment
+SPNT,Financial Services,Insurance—Reinsurance
+ALKT,Technology,Software—Application
+PWP,Financial Services,Capital Markets
+CRM,Technology,Software—Application
+NE,Energy,Oil & Gas Drilling
+BRBS,Financial Services,Banks—Regional
+ALRS,Financial Services,Banks—Regional
+HBT,Financial Services,Banks—Regional
+LILA,Communication Services,Telecom Services
+PRTS,Consumer Cyclical,Auto Parts
+MET,Financial Services,Insurance—Life
+DCGO,Healthcare,Medical Care Facilities
+UHG,Consumer Cyclical,Residential Construction
+ACRS,Healthcare,Diagnostics & Research
+VHI,Basic Materials,Chemicals
+STRA,Consumer Defensive,Education & Training Services
