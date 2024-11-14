@@ -1,6 +1,6 @@
 This folder contains implementations for the following two projects, with detailed procedures documented in the Demo file.
 
-# Project 1: Pair Trading**
+# Project 1: Pair Trading
 
 --> Part 1: Identifying Highly Correlated Pairs
 A dashboard (http://127.0.0.1:3033/) will automatically pop-up and allow users to select top pairs based on OLS spread and Kalman spread.
@@ -13,7 +13,7 @@ Backtesting features are included to evaluate performance metrics across differe
 Please see "Project_1_BackTest.pdf" for a quick review of results.
 
 
-**Project 2: Multi-Variate Index**
+# Project 2: Multi-Variate Index
 --> Main part: Index Regression
 A dashboard (http://127.0.0.1:3035/) enables users to choose an index, set the start and end dates, and select up to ten tickers for regression analysis.
 Please see "Project_2_Regression.pdf" for a quick review of results.
