@@ -1,6 +1,6 @@
 This folder contains implementations for the following two projects, with detailed procedures documented in the Demo file.
 
-**Project 1: Pair Trading**
+# Project 1: Pair Trading**
 
 --> Part 1: Identifying Highly Correlated Pairs
 A dashboard (http://127.0.0.1:3033/) will automatically pop-up and allow users to select top pairs based on OLS spread and Kalman spread.
