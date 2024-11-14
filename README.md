@@ -25,10 +25,8 @@ Please see "Project_2_MostExplain.pdf" for a quick review of results.
 
 --------------------------------------------------------------------------------------------------
 In order to run the project, user can choose either
+
 (1) run the jupyter notebook "Demo.ipynb", which show the detailed procedure and results.
-
-or,
-
 (2) run the main.py file, it will pop up four web browsers with port addresses above.
 
 
