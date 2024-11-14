@@ -2,13 +2,13 @@ This folder contains implementations for the following two projects, with detail
 
 # Project 1: Pair Trading
 
---> Part 1: Identifying Highly Correlated Pairs
+## Part 1: Identifying Highly Correlated Pairs
 A dashboard (http://127.0.0.1:3033/) will automatically pop-up and allow users to select top pairs based on OLS spread and Kalman spread.
 Please note that this process takes approximately 3 minutes with multi-threading. If you run it in the Jupyter notebook "Demo.ipynb," a progress bar will display progress at the bottom of the output cell.
 Please see "Project_1_HighCorrelation.pdf" for a quick review of results.
 
 
---> Part 2: Backtesting Selected Pairs
+## Part 2: Backtesting Selected Pairs
 Backtesting features are included to evaluate performance metrics across different entry/exit thresholds, along with a sensitivity analysis. This generates a Plotly HTML report. (http://127.0.0.1:3034/)
 Please see "Project_1_BackTest.pdf" for a quick review of results.
 
