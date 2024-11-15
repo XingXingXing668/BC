@@ -13,7 +13,7 @@ class DataMixin:
         """
         current_dir = os.path.dirname(__file__)
         
-        stock_data = pd.read_pickle('./Data/preprocessed_daily_data.pkl')
+        stock_data = pd.read_pickle('./Data/preprocessed_daily_data_small.pkl')
         ticker_sector = pd.read_csv("./Data/tickers_with_sector_industry.csv")
         
         # Merge the sector data with the main data
@@ -66,6 +66,6 @@ class DataMixin:
         return pd.read_csv('./Data/Ndq100_tickers.csv')["Ticker"].tolist()
 
     def load_raw_daily(self):
-        raw_daily_data = pd.read_pickle('./Data/raw_daily_data.pkl')
+        raw_daily_data = pd.read_pickle('./Data/raw_daily_data_small.pkl')
         raw_daily_data['Daily Return'] = raw_daily_data.groupby('Ticker')['Adj Close'].pct_change()
         return raw_daily_data
