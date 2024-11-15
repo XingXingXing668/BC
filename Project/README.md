@@ -31,5 +31,5 @@ Please see "Project_2_Regression.pdf" for a quick review of results.
 A dashboard (http://127.0.0.1:3036/)  enable users to select an index, set a date range, and choose a method to find the top 10 stocks explaining index performance through a dedicated dashboard.
 Please see "Project_2_MostExplain.pdf" for a quick review of results.
 
-
+--------------------------------------------------------------------------------------------------
 (Note: Due to GitHub's 25MB file size limit for uploads, I've included a truncated version of the data in this repository. However, the demonstration PDF results are based on the full dataset.)
