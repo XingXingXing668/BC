@@ -6,7 +6,6 @@ In order to run the project, user can choose either
 (1) run the jupyter notebook "Demo.ipynb", which show the detailed procedure and results.<br>
 (2) run the main.py file, it will pop up four web browsers with port addresses above.
 
-Due to GitHub's 25MB file size limit for uploads, I've included a truncated version of the data in this repository. However, the demonstration PDF results are based on the full dataset.<br>
 --------------------------------------------------------------------------------------------------
 
 # Project 1: Pair Trading
@@ -33,3 +32,4 @@ A dashboard (http://127.0.0.1:3036/)  enable users to select an index, set a dat
 Please see "Project_2_MostExplain.pdf" for a quick review of results.
 
 
+(Note: Due to GitHub's 25MB file size limit for uploads, I've included a truncated version of the data in this repository. However, the demonstration PDF results are based on the full dataset.)
