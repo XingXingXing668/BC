@@ -28,7 +28,8 @@ def Project2():
 if __name__ == "__main__":
     ########################################################################################
     # Note: Due to GitHub's 25MB file size limit, I couldn't upload the full data. 
-    # Instead, a text file in the "Data" folder provides a Dropbox link to access the full data to run the code.
+    # Instead, a text file in the "Data" folder provides a Dropbox link to access the full data.
+    # To run the code, please download the data from Dropbox link, and make sure the downloaded data in the "Data" foler.
     #######################################################################################
     
     # Pop-up a dashboard displaying highly correlated pairs (approximately 3 minutes to run with multi-threading)
