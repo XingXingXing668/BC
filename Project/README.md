@@ -6,7 +6,7 @@ In order to run the project, user can choose either
 (1) run the jupyter notebook "Demo.ipynb", which show the detailed procedure and results.<br>
 (2) run the main.py file, it will pop up four web browsers with port addresses above.<br>
 
-Note: Due to GitHub's 25MB file size limit, I couldn't upload the data file. Instead, a text file in the Data folder provides a Dropbox link to access the data to run the code.
+Note: Due to GitHub's 25MB file size limit, I couldn't upload the full data. Instead, a text file in the "Data" folder provides a Dropbox link to access the full data to run the code.
 
 --------------------------------------------------------------------------------------------------
 
