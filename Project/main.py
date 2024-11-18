@@ -26,7 +26,11 @@ def Project2():
     MostExplainDashBoard().run_app()# http://127.0.0.1:3036
     
 if __name__ == "__main__":
-
+    ########################################################################################
+    # Note: Due to GitHub's 25MB file size limit, I couldn't upload the full data. 
+    # Instead, a text file in the "Data" folder provides a Dropbox link to access the full data to run the code.
+    #######################################################################################
+    
     # Pop-up a dashboard displaying highly correlated pairs (approximately 3 minutes to run with multi-threading)
     Project_1_DashBoard()
 
